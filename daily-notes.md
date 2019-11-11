@@ -1,6 +1,6 @@
-#### Makers daily notes
+# Makers daily notes
 
-## Day 1 - Monday the 11th of November 2019
+### Day 1 - Monday the 11th of November 2019
 
 - Nice first day!
 - Really liked how logically Alice explained the core principles for learning software development, while picking up comments from us. I found it very organic.
