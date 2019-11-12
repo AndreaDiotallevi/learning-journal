@@ -18,7 +18,7 @@
   - Describe some basic OO principles like encapsulation, SRP.
 - Discussed about how to validate goals at the end of week 1:
   - Getting feedback from the pairing partner and coaches, screen recording and commit history.
-  - Taking breaks, being mindful about who is time to drive, writing down an explaination or blog post about how to pair well.
+  - Taking breaks, being mindful about whose time to drive, writing down an explaination or blog post about how to pair well.
   - Create a diagram of the process of debugging to describe the concepts to someone else.
 - Really enjoyed the debugging workshop, and got the systematic approach for understanding what the problem is and how to fix it:
   - Tighten the loop: read carefully error messages, with the bug being in the line of code closest to the named error.
@@ -26,10 +26,11 @@
 - Type of errors: SyntaxError and RuntimeError (NameError, ArgumentError etc.).
 - Paired with Harry. The most challenging thing was being able to talk while getting my head around the current task.
 - The challenge for the week was "Boris-bikes" and the learning objectives covered today were:
-  - Transform an user story (short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system) into a domain model (an abstraction, model of an area of interest, domain).
-  - Define a feature test: the process of making changes in software system to add one or more new features or to make modifications in the already existing features.
+  - Transform an User Story (short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system) into a Domain Model (an abstraction, model of an area of interest, domain).
+  - Define a Feature Test: the process of making changes in software system to add one or more new features or to make modifications in the already existing features.
   - Define a stack trace: a report of the active stack frames at a certain point in time during the execution of a program.
-  - Use `irb` to run a feature test: `dock_station = DockStation.new` before creating the DockStation class.
+  - Use `irb` to run a Feature Test: `dock_station = DockStation.new` before creating the DockStation class.
   - Explain how to use a stack trace to debug errors, debug an error using a stack trace.
   - Define RSpec as a testing framework, create a spec file, describe an object using a specification.
   - Set up a Unit Test, pass a Unit test, move between Feature and Unit Test.
+- Yoga was amazing. It was the first time in my life I have ever done a yoga session and I really loved it. Will be there on Thursday as well!
