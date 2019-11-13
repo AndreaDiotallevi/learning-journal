@@ -38,15 +38,15 @@
 ### Day 3 - Wednesday 13th November 2019
 
 - Paired with Jade and it was so much fun! At the end of the session we had a great feedback chat and highlighted the following:
- - Well respected driver and navigator roles, letting the driver think and find the right solution, with the navigator supervising and googling questions.
- - Balanced interaction opposed to one sided.
- - Both of us explained a concept to the other person (the attr_accessor to Jane and the Feature Test objective to me), and we both understood it well.
- - Relaxed during the entire session since the beginning, making a lot of fun jokes.
- - Being very motivated and assertive throughout the process with a good team spirit.
- - Celebrated the failures and successes with always a smile in our faces.
- - Let the other person try out things without imposing ourselves.
- - Sometimes anticipating the thought or the pairing partner helping to smooth the process.
- - Not getting mad at each at the end, regardless the consistent error messages on the screen.
- - Probably we should have taken more breaks, but we both enjoyed the experience and were happy to continue coding.
+  - Well respected driver and navigator roles, letting the driver think and find the right solution, with the navigator supervising and googling questions.
+  - Balanced interaction opposed to one sided.
+  - Both of us had a chance to verbally explain a concept to the other person (the attr_accessor role to Jane and the Feature Test objective to me), and we both understood it well.
+  - Relaxed during the entire session since the beginning, making a lot of fun jokes.
+  - Being very motivated and assertive throughout the process with a good team spirit.
+  - Celebrated failures and successes with always a smile in our faces.
+  - Let the other person try out things without imposing ourselves.
+  - Sometimes anticipating the thought or the pairing partner helping to smooth the process.
+  - Not getting mad at each at the end, regardless the consistent error messages on the screen.
+  - Probably we should have taken more breaks, but we both enjoyed the experience and were happy to continue coding.
 
 
