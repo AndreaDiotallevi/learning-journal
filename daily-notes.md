@@ -41,9 +41,9 @@
   - Well respected driver and navigator roles, letting the driver think and find the right solution, with the navigator supervising and googling questions.
   - Balanced interaction opposed to one sided.
   - Both of us had a chance to verbally explain a concept to the other person (the attr_accessor role to Jane and the Feature Test objective to me), and we both understood it well.
-  - Relaxed during the entire session since the beginning, making a lot of fun jokes.
-  - Being very motivated and assertive throughout the process with a good team spirit.
-  - Celebrated failures and successes with always a smile in our faces.
+  - Relaxed and free to speak honestly since the beginning, making a lot of fun jokes.
+  - Very motivated and assertive throughout the process with a good team spirit.
+  - Celebrated failures and successes with a positive attitude.
   - Let the other person try out things without imposing ourselves.
   - Sometimes anticipating the thought or the pairing partner helping to smooth the process.
   - Not getting mad at each at the end, regardless the consistent error messages on the screen.
