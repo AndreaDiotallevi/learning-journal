@@ -51,12 +51,11 @@
   - Not getting mad at each at the end, regardless the consistent error messages on the screen.
   - Probably we should have taken more breaks, but we both enjoyed the experience and were happy to continue coding.
 
-  ### Day 4 - Thursday 14th November 2019
+### Day 4 - Thursday 14th November 2019
 
-- The TDD workshop was great, with interaction between students and coach Alice and practical examples.
+- The **TDD workshop** was great, with interaction between students & coach Alice and practical examples.
 - What is TTD? A process of writing tests to guide the writing of code to meet the user needs.
 - Why to use it? To help breaking down the problem, to serve as documentation, to act as a safety net (true for tests in general).
-
 - A TDD process includes the following steps:
   - **Define user needs**: store money, discourage people from taking it out, destroy and take all the money out, shake it to find out if there is money (piggy bank project).
   - **Write user stories**:
@@ -74,7 +73,6 @@
     - Input: 0 -> Output: nil
   - **Refactor the code if necessary**.
   - **Continue writing tests until the method is covered**.
-
 - Testing state v behaviour: the test is written from the point of view of the user. You should never look inside, but instead use methods to check things inside the class. As soon as the user needs something, the store method will need to change, but not the tests.
 - Additional notes: `Rspec -fd` shows a more detailed message.
-- I paired with Zak and, since he was a bit behind me, I had the opportunity to explain things and consolidate my learning. Although a bit slow, the pairing was good as we both were listening to each other and respected the roles of the driver and navigator.
+- I paired with Zak and, since he was a bit behind me, I had the opportunity to explain things and consolidate my learning. Although a bit slow, the pairing was good as we both were listening to each other and respected the roles of the driver and navigator. In addition, writing down notes on paper helped us keep track or our progress and solve the challenges.
