@@ -1,6 +1,6 @@
 # Makers daily notes
 
-[Day 1](#day-1---monday-11th-november-2019) | [Day 2](#week-2) | [Day 3](week-3) | [Day 4](#week-4)
+[Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019)
 
 ### Day 1 - Monday 11th November 2019
 
@@ -56,24 +56,23 @@
   - The TDD workshop was great, with continuous interaction and practical examples.
   - What is TTD? A process of writing tests to guide the writing of code to meet the user needs.
   - Why to use it? To help breaking down the problem, to serve as documentation, to act as a safety net (true for tests in general).
-  - Piggy bank example. The detailed TDD process includes the following steps:
-    - Define user needs: store money, discourage people from taking it out, destroy and take all the money out, shake it to find out if there is money.
-    - Write user stories:
+  - Piggy bank program. A TDD process includes the following steps:
+    - **Define user needs**: store money, discourage people from taking it out, destroy and take all the money out, shake it to find out if there is money.
+    - **Write user stories**:
       - As a user (entity that can do the things - this line is less useful until we have several roles in a program, like owner, guests etc.).
       - So I can save money (context - it doesn't describe the method and it is not integral part of the functionality of the program).
       - I want to store it in a piggy bank (most important line).
-    - Define a domain model (nouns & verbs, objects & messages).
-    - Write a feature test:
+    - **Define a domain model** (nouns & verbs, objects & messages).
+    - **Write a feature test**:
       `piggy_bank = piggyBank.new`
       `piggy_bank.store(1)`
       => `"clink"`
-    - Write a unit test: to test something, ask yourself what is the behaviour of the think you want to test - with an input / output table.
-      - Input: 1; Output: "clink"
-      - Input: 2; Output: "clink"
-      - Input: 0; Output: nil
-    - Rspec: only syntax to remember is `describe`, `it`, `expect` and the matchers `.to eq`, `.to raise_error`, `.to output`.
-    - Refactor the code if necessary.
-    - Continue writing tests until you feel the method is covered.
+    - **Write a unit test**: to test something, ask yourself what is the behaviour of the thing you want to test - with an input / output table.
+      - Input: 1 -> Output: "clink"
+      - Input: 2 -> Output: "clink"
+      - Input: 0 -> Output: nil
+    - **Refactor the code if necessary**.
+    - **Continue writing tests until the method is covered**.
     - Testing state v behaviour: the test is written from the point of view of the user. You should never look inside, but instead use methods to check things inside the class. As soon as the user needs something, the store method will need to change, but not the tests.
     - Additional notes: `Rspec -fd` shows a more detailed message.
     - I paired with Zak and, since he was a bit behind me, I had the opportunity to explain things and consolidate my learning. Although a bit slow, the pairing was good as we both were listening to each other and respected the roles of the driver and navigator.
