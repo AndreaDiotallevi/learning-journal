@@ -56,18 +56,29 @@
   - The TDD workshop was great, with continuous interaction and practical examples.
   - What is TTD? A process of writing tests to guide the writing of code to meet the user needs.
   - Why to use it? To help breaking down the problem, to serve as documentation, to act as a safety net (true for tests in general).
-  - Piggy bank example. The detailed TDD process includes:
-    - Define user needs: store money, discourage people from taking it out, destroy and take all the money out, shaking it tells us if there is money.
+  - Piggy bank example. The detailed TDD process includes the following steps:
+    - Define user needs: store money, discourage people from taking it out, destroy and take all the money out, shake it to find out if there is money.
     - Write user stories:
       - As a user (entity that can do the things - this line is less useful until we have several roles in a program, like owner, guests etc.).
       - So I can save money (context - it doesn't describe the method and it is not integral part of the functionality of the program).
       - I want to store it in a piggy bank (most important line).
     - Define a domain model (nouns & verbs, objects & messages).
     - Write a feature test:
+    
       `piggy_bank = piggyBank.new`
+
       `piggy_bank.store(1)`
+
       => `"clink"`
-    - Write a unit test: 
+    - Write a unit test: to test something, ask yourself what is the behaviour of the think you want to test - with an input / output table.
+      - Input: 1    Output: "clink"
+      - Input: 2    Output: "clink"
+      - Input: 0    Output: nil
+    - Rspec: only syntax to remember is `describe`, `it`, `expect` and the matchers `.to eq`, `.to raise_error`, `.to output`.
+    - Refactor the code if necessary.
+    - Continue writing tests until you feel the method is covered.
+    - Testing state v behaviour: the test is written from the point of view of the user. You should never look inside, but instead use methods to check things inside the class. As soon as the user needs something, the store method will need to change, but not the tests.
+    - Rspec -fd: shows a more detailed message.
 
 
 
