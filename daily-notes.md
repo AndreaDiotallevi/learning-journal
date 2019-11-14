@@ -1,5 +1,7 @@
 # Makers daily notes
 
+[Day 1](#day-1) | [Day 2](#week-2) | [Day 3](week-3) | [Day 4](#week-4)
+
 ### Day 1 - Monday 11th November 2019
 
 - Nice first day! Met my cohort-mates and had the opportunity to chat in small groups, getting to know each other. Also went for lunch with a few of them to Spitalfields Market and was fun.
@@ -37,7 +39,7 @@
 
 ### Day 3 - Wednesday 13th November 2019
 
-- Paired with Jade and it was so much fun! At the end of the session we had a great feedback chat and highlighted the following:
+- Pairing with Jade was so much fun! At the end of the session we had a great chat and highlighted the following feedback points:
   - Well respected driver and navigator roles, letting the driver think and find the right solution, with the navigator supervising and googling questions.
   - Balanced interaction opposed to one sided.
   - Both of us had a chance to verbally explain a concept to the other person (the attr_accessor role to Jane and the Feature Test objective to me), and we both understood it well.
@@ -48,5 +50,24 @@
   - Sometimes anticipating the thought or the pairing partner helping to smooth the process.
   - Not getting mad at each at the end, regardless the consistent error messages on the screen.
   - Probably we should have taken more breaks, but we both enjoyed the experience and were happy to continue coding.
+
+  ### Day 4 - Thursday 14th November
+
+  - The TDD workshop was great, with continuous interaction and practical examples.
+  - What is TTD? A process of writing tests to guide the writing of code to meet the user needs.
+  - Why to use it? To help breaking down the problem, to serve as documentation, to act as a safety net (true for tests in general).
+  - Piggy bank example. The detailed TDD process includes:
+    - Define user needs: store money, discourage people from taking it out, destroy and take all the money out, shaking it tells us if there is money.
+    - Write user stories:
+      - As a user (entity that can do the things - this line is less useful until we have several roles in a program, like owner, guests etc.).
+      - So I can save money (context - it doesn't describe the method and it is not integral part of the functionality of the program).
+      - I want to store it in a piggy bank (most important line).
+    - Define a domain model (nouns & verbs, objects & messages).
+    - Write a feature test:
+      `piggy_bank = piggyBank.new`
+      `piggy_bank.store(1)`
+      => `"clink"`
+    - Write a unit test: 
+
 
 
