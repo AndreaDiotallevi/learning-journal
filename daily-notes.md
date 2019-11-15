@@ -76,3 +76,9 @@
 - Testing state v behaviour: the test is written from the point of view of the user. You should never look inside, but instead use methods to check things inside the class. As soon as the user needs something, the store method will need to change, but not the tests.
 - Additional notes: `Rspec -fd` shows a more detailed message.
 - I paired with Zak and, since he was a bit behind me, I had the opportunity to explain things and consolidate my learning. Although a bit slow, the pairing was good as we both were listening to each other and respected the roles of the driver and navigator. In addition, writing down notes on paper helped us keep track or our progress and solve the challenges.
+
+### Day 5 - Friday 15th November 2019
+
+- I paired with Raluca and, although it was just for two hours, we had the opportunity to understand in more detail the concept of testing behaviour rather than state.
+- At 4 we did the first retrospective and wrote on the white board positives and negatives of the first week. It was cool.
+- Had drinks after 5 and met a few people from the other cohorts. Went to the pub and had a lot of fun getting to know my cohort-mates better and talk about more personal stuff.
