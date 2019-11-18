@@ -82,3 +82,21 @@
 - I paired with Raluca and, although it was just for two hours, we had the opportunity to understand in more detail the concept of testing behaviour rather than state.
 - At 4 we did the first retrospective and wrote on the white board positives and negatives of the first week. It was cool.
 - Had drinks after 5 and met a few people from the other cohorts. Went to the pub and had a lot of fun getting to know my cohort-mates better and talk about more personal stuff.
+
+### Day 6 & 7 - Saturday & Sunday 16th & 17th November 2019
+
+- Airport challenge over the weekend.
+
+### Day 8 - Monday 18 November
+
+- I paired with David on the oystercard challenge and went really well. We both were solving problems very quickly and helped each other, forcing ourselves to follow the correct TDD process.
+
+- Went to my first 'process workshop' in the afternoon and funnily enough I got paired with Melvin, my mentor. We both did a 25 minutes session with 5 minutes feedback - me on the 'get middle letter' challenge and Melvin on the 'ten minutes walk' challenge. The feedback was very instructive as well as the following Q&A:
+
+  - Instead of changing screen multiple times, better copy-paste useful information into the code base and split the screen with integrated terminal.
+
+  - I could have worded my solution in a more complete way before jumping into coding the solution.
+
+  - Read carefully about what is requested and how you are supposed to call the method from irb - "string".get_method is different than get_method("string").
+
+  - Each test should help towards the correct coded solution. Therefore, apart from the first trivial test, we shouldn't hard-code the solution, but instead try to improve the code step by step. The order of the tests is important.
