@@ -1,6 +1,6 @@
 # Makers daily notes
 
-[Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019)
+[Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#day-6-&-7---saturday-&-sunday-16th-&-17th-november-2019) | [Day 8](#day-8---monday-18-november)
 
 ### Day 1 - Monday 11th November 2019
 
@@ -91,7 +91,7 @@
 
 - I paired with David on the oystercard challenge and went really well. We both were solving problems very quickly and helped each other, forcing ourselves to follow the correct TDD process.
 
-- Went to my first 'process workshop' in the afternoon and funnily enough I got paired with Melvin, my mentor. We both did a 25 minutes session with 5 minutes feedback - me on the 'get middle letter' challenge and Melvin on the 'ten minutes walk' challenge. The feedback was very instructive as well as the following Q&A:
+- Went to my first **process workshop** in the afternoon and funnily enough I got paired with Melvin, my mentor. We both did a 25 minutes session with 5 minutes feedback - me on the 'get middle letter' challenge and Melvin on the 'ten minutes walk' challenge. The feedback was very instructive as well as the following Q&A:
 
   - Instead of changing screen multiple times, better copy-paste useful information into the code base and split the screen with integrated terminal.
 
