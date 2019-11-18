@@ -139,7 +139,7 @@
 
 ### Days 6-7 - Saturday-Sunday 16th-17th November 2019
 
-- Airport challenge over the weekend. I had fun solving the challenge and learned how to use doubles, stubs and mocks.
+- [Airport challenge](https://github.com/AndreaDiotallevi/airport_challenge) over the weekend. I had fun solving the challenge and learned how to use doubles, stubs and mocks.
 
 - From the pull request submission I received the following comments:
 
