@@ -1,6 +1,6 @@
 # Makers daily notes
 
-- **Week 1** : [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6---7---saturday---sunday-16th---17th-november-2019)
+- **Week 1** : [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-7---saturday-sunday-16th-17th-november-2019)
 
 - **Week 2** : [Day 8](#day-8---monday-18-november-2019)
 
@@ -137,7 +137,7 @@
 
 - Had drinks after 5 and met a few people from the other cohorts. Went to the pub and had a lot of fun getting to know my cohort-mates better and talk about more personal stuff.
 
-### Days 6 & 7 - Saturday & Sunday 16th & 17th November 2019
+### Days 6-7 - Saturday-Sunday 16th-17th November 2019
 
 - Airport challenge over the weekend. I had fun solving the challenge and learned how to use doubles, stubs and mocks.
 
@@ -147,7 +147,7 @@
 
   - The ```initilize``` method doesn't need to be tested as it usually leads to testing implementation instead of behaviour.
 
-  - For the ```Plane``` and ```Weather``` classes I should have **stubbed** randomness and check when they should return ```true``` and when ```false```.
+  - For the ```Plane``` and ```Weather``` classes I should have **stubbed randomness** and check when they should return ```true``` and when ```false```.
 
 ### Day 8 - Monday 18 November 2019
 
@@ -159,6 +159,6 @@
 
   - I could have worded my solution in a more complete way before jumping into coding the solution.
 
-  - Read carefully about what is requested and how you are supposed to call the method from irb - "string".get_method is different than get_method("string").
+  - Read carefully about what is requested and how you are supposed to call the method from ```irb``` - ```"string".get_middle``` is different than ```get_middle("string")```.
 
-  - Each test should help towards the correct coded solution. Therefore, apart from the first trivial test, we shouldn't hard-code the solution, but instead try to improve the code step by step. The order of the tests is important.
+  - Each test should help towards the correct solution. Therefore, apart from the first trivial test, we shouldn't hard-code the solution, but instead try to improve the code step by step. The order of the tests is important.
