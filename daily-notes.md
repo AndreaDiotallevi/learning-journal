@@ -1,8 +1,8 @@
 # Makers daily notes
 
-- **Week 1** [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-&-7---saturday-&-sunday-16th-&-17th-november-2019)
+- **Week 1** -> [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-&-7---saturday-&-sunday-16th-&-17th-november-2019)
 
-**Week 2** [Day 8](#day-8---monday-18-november)
+- **Week 2** -> [Day 8](#day-8---monday-18-november)
 
 ### Day 1 - Monday 11th November 2019
 
