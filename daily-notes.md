@@ -1,6 +1,8 @@
 # Makers daily notes
 
-[Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#day-6-&-7---saturday-&-sunday-16th-&-17th-november-2019) | [Day 8](#day-8---monday-18-november)
+- **Week 1** [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-&-7---saturday-&-sunday-16th-&-17th-november-2019)
+
+**Week 2** [Day 8](#day-8---monday-18-november)
 
 ### Day 1 - Monday 11th November 2019
 
@@ -83,7 +85,7 @@
 - At 4 we did the first retrospective and wrote on the white board positives and negatives of the first week. It was cool.
 - Had drinks after 5 and met a few people from the other cohorts. Went to the pub and had a lot of fun getting to know my cohort-mates better and talk about more personal stuff.
 
-### Day 6 & 7 - Saturday & Sunday 16th & 17th November 2019
+### Days 6 & 7 - Saturday & Sunday 16th & 17th November 2019
 
 - Airport challenge over the weekend.
 
