@@ -183,7 +183,7 @@
 
   - Kind.
 
-- I particularly enjoyed the last part of the workshop, when we had the chance to try to give our personal feedback to real work examples. I learned the following:
+- I particularly enjoyed the last part of the workshop, when we had the chance to give our personal feedback to real work examples. I learned the following:
 
   - Start with "I have noticed..." rather than "You are...".
 
@@ -191,4 +191,50 @@
 
   - Ask a question to check how the other responds and start from there, instead of going straight to the request.
 
-- I paired with Kealan and it was a lot of fun. In the end he gave me the useful feedback of trying to involve the navigator a bit more with research, regardless if I thought I already knew the answer / syntax, to give the other person the opportunity to learn that particular thing as well.
+- I paired with Kealan and it was a lot of fun. In the end he gave me the useful feedback of trying to involve the navigator a bit more with research, regardless if I thought I already knew the answer / syntax, in order to give the other person the opportunity to learn that particular thing as well.
+
+- Received a great feedback from Alice on the video recording during my process workshop yesterday:
+
+  - ANALYSING USER NEEDS:
+
+    - You should spend a bit more time on the instructions and acceptance criteria:
+
+    - You may want to build an input output table to explore the edge cases of the program, and to help you decide which case you should start with.
+
+    - If you look more closely at the acceptance criteria, it's ```get_middle('test')``` not ```'test'.get_middle```.
+
+  - TESTS:
+
+    - You should start with a simpler test case (maybe one or two letters).
+
+    - Each test description should be more specific (prefer ```it returns 'es' when passed 'test'``` to ```it returns the middle characters of a string```).
+
+    - Also, I got very confused later because your test descriptions are reversed. When reading tests results, the test description is giving you context on which is the test that is failing. A wrong description makes it much more difficult to understand what is wrong.
+
+    - Also you need more tests.
+
+  - MODELLING / ALGORITHM DESIGN:
+
+    - Between 8:20 and 9:25, I'm not sure what you were doing, but I guess you were developing the algorithm in your head.
+
+    - Because of your test progression, you are jumping directly from hard coded result to creating the whole algorithm, when you should probably do one thing at a time (like maybe tackle odd number first).
+
+    - Later you looked up "find middle char in string ruby". This is a little bit more specific than I would google. Since you have already found out about round, I would probably already be trying things either in ```irb``` or the code.
+
+    - What I would expect you to google here is "how to get a char from a string by its index" or something along these lines.
+
+  - CODING:
+
+    - 14min - The code you write is complex enough that I would test it in ```irb``` as I go (or add puts and run the tests after every line). This is because debugging is harder when the whole thing has been written, as opposed to when you check that the result is what you expect at every stage.
+
+    - 15:50 - When you fix the bug, there, I think you are missing the point of the error, which does not show the best debugging process.
+
+    - The error was ```undefined method even?` for "test":String```. This should lead you to ask yourself what ```even?``` is defined on. Instead you choose to do things differently, which means you are not learning something new from the error.
+
+    - Again here I would expect you to use ```irb``` a lot more to try things out.
+
+    - 18min - your test descriptions tripped you up there.
+
+  - OVERALL:
+  
+    - You need to improve your attention to detail, and I would really encourage you to run your code at every step of the process. This may mean going slightly slower, but in the end it would make you a lot faster.
