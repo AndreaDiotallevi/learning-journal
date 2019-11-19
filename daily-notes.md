@@ -2,7 +2,7 @@
 
 - **Week 1** : [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-7---saturday-sunday-16th-17th-november-2019)
 
-- **Week 2** : [Day 8](#day-8---monday-18-november-2019)
+- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019)
 
 ### Day 1 - Monday 11th November 2019
 
@@ -162,3 +162,31 @@
   - Read carefully about what is requested and how you are supposed to call the method from ```irb``` - ```"string".get_middle``` is different than ```get_middle("string")```.
 
   - Each test should help towards the correct solution. Therefore, apart from the first trivial test, we shouldn't hard-code the solution, but instead try to improve the code step by step. The order of the tests is important.
+
+### Day 9 - Monday 19 November 2019
+
+- Attended a 'feedback workshop' by Dana in the morning and it was very interesting. A feedback could fall into the following categories:
+
+  - Appreciation.
+
+  - Evaluation.
+
+  - Coaching.
+
+- Use the 'ASK' framework when giving feedback:
+
+  - Actionable.
+
+  - Specific.
+
+  - Kind.
+
+- I particularly enjoyed the last part of the workshop, when we had to try to give our personal feedback to real work examples. I learned the following:
+
+  - Start with "I have noticed..." rather than "You are...".
+
+  - Request, not command.
+
+  - Ask a question to check how the other responds and start from there, instead of going straight to the request.
+
+- I paired with Kealan and it was a lot of fun. In the end he gave me a very useful feedback about trying to involve the navigator a bit more with research, regardless if I thought I already knew the answer / syntax, in order to move forward and give the other person the opportunity to learn that particular thing as well.
