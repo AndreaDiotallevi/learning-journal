@@ -163,9 +163,11 @@
 
   - Each test should help towards the correct solution. Therefore, apart from the first trivial test, we shouldn't hard-code the solution, but instead try to improve the code step by step. The order of the tests is important.
 
-### Day 9 - Monday 19 November 2019
+### Day 9 - Tuesday 19 November 2019
 
-- Attended a 'feedback workshop' by Dana in the morning and it was very interesting. A feedback could fall into the following categories:
+- Attended a 'feedback workshop' from Dana in the morning and it was very interesting.
+
+- There are 3 types of feedback:
 
   - Appreciation.
 
@@ -181,7 +183,7 @@
 
   - Kind.
 
-- I particularly enjoyed the last part of the workshop, when we had to try to give our personal feedback to real work examples. I learned the following:
+- I particularly enjoyed the last part of the workshop, when we had the chance to try to give our personal feedback to real work examples. I learned the following:
 
   - Start with "I have noticed..." rather than "You are...".
 
@@ -189,4 +191,4 @@
 
   - Ask a question to check how the other responds and start from there, instead of going straight to the request.
 
-- I paired with Kealan and it was a lot of fun. In the end he gave me a very useful feedback about trying to involve the navigator a bit more with research, regardless if I thought I already knew the answer / syntax, in order to move forward and give the other person the opportunity to learn that particular thing as well.
+- I paired with Kealan and it was a lot of fun. In the end he gave me the useful feedback of trying to involve the navigator a bit more with research, regardless if I thought I already knew the answer / syntax, to give the other person the opportunity to learn that particular thing as well.
