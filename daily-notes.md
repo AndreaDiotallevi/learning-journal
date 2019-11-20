@@ -253,4 +253,6 @@
 
   <img src="./img/class.png" width="600" height="200" />
 
-- I paired with Sam and it was a great session, with lots of pace, balance and good exchange of different ideas. We learned how to extract a new class from an existing class making sure to keep the functionality. After the pairing he told me I helped him understand the difference between the driver and natigator roles and I was happy about that.
+- I paired with Sam and it was a great session, with lots of pace, balance and good exchange of different ideas. We learned how to extract a new class from an existing class making sure to keep the functionality. After the pairing he told me I helped him understand the difference between the driver and navigator roles and I was happy about that.
+
+- Went to another process workshop, this time tackling the 'ten minute walk' challenge, with Alastair. I think I approached it more carefully than last time, paying attention to the user needs and starting from simple test cases. I guess the most difficult part this time was how to decide the best order for the test cases, and reach the final code in the most logical way.
