@@ -2,7 +2,7 @@
 
 - **Week 1** : [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-7---saturday-sunday-16th-17th-november-2019)
 
-- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019)
+- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019) | [Day 10](#day-10---wednesday-20-november-2019)
 
 ### Day 1 - Monday 11th November 2019
 
@@ -238,3 +238,19 @@
   - OVERALL:
   
     - You need to improve your attention to detail, and I would really encourage you to run your code at every step of the process. This may mean going slightly slower, but in the end it would make you a lot faster.
+
+### Day 10 - Wednesday 20 November 2019
+
+- Attented a **workshop on domain models** in the morning with Sophie and it was very informative.
+
+- There are two types of domain models:
+
+  - **Sequence diagram**: the classes are displayed in rectangles at the top and the messages between the objects are shown with arrows. Continuous lines for messages, dotten lines for responses. Better not extend a message through two classes.
+
+  <img src="./img/sequence.png" width="600" height="350" />
+
+  - **Class diagram**: the instance variables and methods are listed in a table for each class.
+
+  <img src="./img/class.png" width="600" height="200" />
+
+- I paired with Sam and it was a great session, with lots of pace, balance and good exchange of different ideas. We learned how to extract a new class from an existing class making sure to keep the functionality. After the pairing he told me I helped him understand the difference between the driver and natigator roles and I was happy about that.
