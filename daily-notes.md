@@ -2,7 +2,7 @@
 
 - **Week 1** : [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-7---saturday-sunday-16th-17th-november-2019)
 
-- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019) | [Day 10](#day-10---wednesday-20-november-2019) | [Day 11] (#day-11---thursday-21-november-2019)
+- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019) | [Day 10](#day-10---wednesday-20-november-2019) | [Day 11](#day-11---thursday-21-november-2019)
 
 ### Day 1 - Monday 11th November 2019
 
@@ -263,37 +263,61 @@
 
 - In object-oriented programming, **forwarding** means that using a member of an object (either a property or a method) results in actually using the corresponding member of a different object: the use is forwarded to another object. Forwarding is used in a number of design patterns, where some members are forwarded to another object, while others are handled by the directly used object. The forwarding object is frequently called a wrapper object, and explicit forwarding members are called wrapper functions.
 
-```ruby
-class Diary
-  def initialize
-    @contents = "Eric Cantona is the best footballer"
+  ```ruby
+  class Diary
+    def initialize
+      @contents = "Eric Cantona is the best footballer"
+    end
+
+    def read
+      @contents
+    end
   end
 
-  def read
-    @contents
-  end
-end
+  class SecretDiary
+    def initialize
+      @diary = Diary.new
+      @unlocked = false
+    end
 
-class SecretDiary
-  def initialize
-    @diary = Diary.new
-    @unlocked = false
+    def unlock
+      @unlocked = true
+    end
+
+    def lock
+      @unlocked = false
+    end
+
+    def read
+      return "Go away!" unless @unlocked
+      @diary.read
+    end
+  end
+  ```
+
+  See how `SecretDiary` **forwards** methods on to `Diary`. The behaviours of 'locking/unlocking' and 'diary keeping' are now in separate classes. This is a better way of organising our code.
+
+- In software engineering, **dependency injection** is a technique whereby one object supplies the dependencies of another object. A "dependency" is an object that can be used, for example as a service. Instead of a client specifying which service it will use, something tells the client what service to use. The "injection" refers to the passing of a dependency (a service) into the object (a client) that would use it. The service is made part of the client's state. Passing the service to the client, rather than allowing a client to build or find the service, is the fundamental requirement of the pattern.
+
+  ```ruby
+  class Greeter
+    def initialize(smiley = Smiley.new)
+      @smiley = smiley
+    end
+
+    def greet
+      "Hello #{@smiley.get}"
+    end
   end
 
-  def unlock
-    @unlocked = true
+  class Smiley
+    def get
+      ":)"
+    end
   end
+  ```
 
-  def lock
-    @unlocked = false
-  end
+  Instead of hard coding the dependency, we 'inject' it into the class via the initializer. Dependency injection is a technique for helping you test classes in isolation. It allows a class to use either its real dependency, or a double.
 
-  def read
-    return "Go away!" unless @unlocked
-    @diary.read
-  end
-end
-```
-
-See how `SecretDiary` **forwards** methods on to `Diary`. The behaviours of 'locking/unlocking' and 'diary keeping' are now in separate classes. This is a better way of organising our code.
+- I paired with Danny and it was very interesting. I liked the fact that he cared about taking good breaks and spend quality time in front of the screen. We also had a nice conversation about how the mind works and the benefits of meditation, which made the session quite unique.
 
