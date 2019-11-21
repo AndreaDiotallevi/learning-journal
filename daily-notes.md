@@ -2,7 +2,7 @@
 
 - **Week 1** : [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-7---saturday-sunday-16th-17th-november-2019)
 
-- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019) | [Day 10](#day-10---wednesday-20-november-2019)
+- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019) | [Day 10](#day-10---wednesday-20-november-2019) | [Day 11] (#day-11---thursday-21-november-2019)
 
 ### Day 1 - Monday 11th November 2019
 
@@ -256,3 +256,44 @@
 - I paired with Sam and it was a great session, with lots of pace, balance and good exchange of different ideas. We learned how to extract a new class from an existing class making sure to keep the functionality. After the pairing he told me I helped him understand the difference between the driver and navigator roles and I was happy about that.
 
 - Went to another process workshop, this time tackling the 'ten minute walk' challenge, with Alastair. I think I approached it more carefully than last time, paying attention to the user needs and starting from simple test cases. I guess the most difficult part this time was how to decide the best order for the test cases, and reach the final code in the most logical way.
+
+### Day 11 - Thursday 21 November 2019
+
+- Studied in the morning important principles of object-oriented programming, like forwarding and dependency injection.
+
+- In object-oriented programming, **forwarding** means that using a member of an object (either a property or a method) results in actually using the corresponding member of a different object: the use is forwarded to another object. Forwarding is used in a number of design patterns, where some members are forwarded to another object, while others are handled by the directly used object. The forwarding object is frequently called a wrapper object, and explicit forwarding members are called wrapper functions.
+
+```ruby
+class Diary
+  def initialize
+    @contents = "Eric Cantona is the best footballer"
+  end
+
+  def read
+    @contents
+  end
+end
+
+class SecretDiary
+  def initialize
+    @diary = Diary.new
+    @unlocked = false
+  end
+
+  def unlock
+    @unlocked = true
+  end
+
+  def lock
+    @unlocked = false
+  end
+
+  def read
+    return "Go away!" unless @unlocked
+    @diary.read
+  end
+end
+```
+
+See how `SecretDiary` **forwards** methods on to `Diary`. The behaviours of 'locking/unlocking' and 'diary keeping' are now in separate classes. This is a better way of organising our code.
+
