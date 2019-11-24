@@ -337,8 +337,8 @@
 
     - Only talk to your immediate friends.
 
- - **Open closed principle**: tells us that we want our code to be open for extension but closed for modification. The ida is that if we need to add some new functionality then we can do that by extending our code rather than modifying it.
+  - **Open closed principle**: tells us that we want our code to be open for extension but closed for modification. The idea is that if we need to add some new functionality then we can do that by extending our code rather than modifying it.
 
 ### Days 13-14 - Saturday-Sunday 23th-24th November 2019
 
-- - [Takeway challenge](https://github.com/AndreaDiotallevi/takeaway-challenge/blob/master/MY_README.md) over the weekend. I had fun solving the challenge and learned how to use the Twilio API, how to test 3rd party dependencies and how to correctly use the dependency injection principle.
+- [Takeway challenge](https://github.com/AndreaDiotallevi/takeaway-challenge/blob/master/MY_README.md) over the weekend. I had fun solving the challenge and learned how to use the Twilio API, test 3rd party dependencies, use environment variables and apply the dependency injection principle.
