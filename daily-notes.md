@@ -2,7 +2,7 @@
 
 - **Week 1** : [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-7---saturday-sunday-16th-17th-november-2019)
 
-- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019) | [Day 10](#day-10---wednesday-20-november-2019) | [Day 11](#day-11---thursday-21-november-2019)
+- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019) | [Day 10](#day-10---wednesday-20-november-2019) | [Day 11](#day-11---thursday-21-november-2019) | [Day 12](#day-12---friday-22-november-2019) | [Days 13 & 14](#days-13-14---saturday-sunday-23th-24th-november-2019)
 
 ### Day 1 - Monday 11th November 2019
 
@@ -321,3 +321,24 @@
 
 - I paired with Danny and it was very interesting. I liked the fact that he cared about taking good breaks and spend quality time in front of the screen. We also had a nice conversation about how the mind works and the benefits of meditation, which made the session quite unique.
 
+### Day 12 - Friday 22 November 2019
+
+- Was supposed to pair with Hisham, but he was not well.
+
+- It was the first time for me flying solo in the afternoon and I found myself being very concentrated and focused. I worked on the Oystercard challenge and consolidated my understanding of the class extracting process.
+
+- In the morning I studied OOP principles such as:
+
+  - **Law of demeter**: a design guideline for developing software, particularly object-oriented programs. In its general form, the LoD is a specific case of **loose coupling**. The guideline can be summarized in each of the following ways:
+
+    - Each object should have only limited knowledge about other units.
+
+    - Each object should only talk to its friends; don't talk to strangers.
+
+    - Only talk to your immediate friends.
+
+ - **Open closed principle**: tells us that we want our code to be open for extension but closed for modification. The ida is that if we need to add some new functionality then we can do that by extending our code rather than modifying it.
+
+### Days 13-14 - Saturday-Sunday 23th-24th November 2019
+
+- - [Takeway challenge](https://github.com/AndreaDiotallevi/takeaway-challenge/blob/master/MY_README.md) over the weekend. I had fun solving the challenge and learned how to use the Twilio API, how to test 3rd party dependencies and how to correctly use the dependency injection principle.
