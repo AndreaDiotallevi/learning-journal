@@ -2,7 +2,7 @@
 
 - **Week 1** : [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-7---saturday-sunday-16th-17th-november-2019)
 
-- **Week 2** : [Day 8](#day-8---monday-18-november-2019) | [Day 9](#day-9---tuesday-19-november-2019) | [Day 10](#day-10---wednesday-20-november-2019) | [Day 11](#day-11---thursday-21-november-2019) | [Day 12](#day-12---friday-22-november-2019) | [Days 13 & 14](#days-13-14---saturday-sunday-23th-24th-november-2019)
+- **Week 2** : [Day 8](#day-8---monday-18th-november-2019) | [Day 9](#day-9---tuesday-19th-november-2019) | [Day 10](#day-10---wednesday-20th-november-2019) | [Day 11](#day-11---thursday-21th-november-2019) | [Day 12](#day-12---friday-22th-november-2019) | [Days 13 & 14](#days-13th-14th---saturday-sunday-23th-24th-november-2019) | [Day 15](#day-15---monday-25th-november-2019) 
 
 ### Day 1 - Monday 11th November 2019
 
@@ -149,7 +149,7 @@
 
   - For the ```Plane``` and ```Weather``` classes I should have **stubbed randomness** and check when they should return ```true``` and when ```false```.
 
-### Day 8 - Monday 18 November 2019
+### Day 8 - Monday 18th November 2019
 
 - I paired with David on the oystercard challenge and went really well. We both were solving problems very quickly and helped each other, forcing ourselves to follow the correct TDD process.
 
@@ -163,7 +163,7 @@
 
   - Each test should help towards the correct solution. Therefore, apart from the first trivial test, we shouldn't hard-code the solution, but instead try to improve the code step by step. The order of the tests is important.
 
-### Day 9 - Tuesday 19 November 2019
+### Day 9 - Tuesday 19th November 2019
 
 - Attended a 'feedback workshop' from Dana in the morning and it was very interesting.
 
@@ -239,7 +239,7 @@
   
     - You need to improve your attention to detail, and I would really encourage you to run your code at every step of the process. This may mean going slightly slower, but in the end it would make you a lot faster.
 
-### Day 10 - Wednesday 20 November 2019
+### Day 10 - Wednesday 20th November 2019
 
 - Attented a **workshop on domain models** in the morning with Sophie and it was very informative.
 
@@ -257,7 +257,7 @@
 
 - Went to another process workshop, this time tackling the 'ten minute walk' challenge, with Alastair. I think I approached it more carefully than last time, paying attention to the user needs and starting from simple test cases. I guess the most difficult part this time was how to decide the best order for the test cases, and reach the final code in the most logical way.
 
-### Day 11 - Thursday 21 November 2019
+### Day 11 - Thursday 21th November 2019
 
 - Studied in the morning important principles of object-oriented programming, like forwarding and dependency injection.
 
@@ -321,7 +321,7 @@
 
 - I paired with Danny and it was very interesting. I liked the fact that he cared about taking good breaks and spend quality time in front of the screen. We also had a nice conversation about how the mind works and the benefits of meditation, which made the session quite unique.
 
-### Day 12 - Friday 22 November 2019
+### Day 12 - Friday 22th November 2019
 
 - Was supposed to pair with Hisham, but he was not well.
 
@@ -342,3 +342,19 @@
 ### Days 13-14 - Saturday-Sunday 23th-24th November 2019
 
 - [Takeway challenge](https://github.com/AndreaDiotallevi/takeaway-challenge/blob/master/MY_README.md) over the weekend. I had fun solving the challenge and learned how to use the Twilio API, test 3rd party dependencies, use environment variables and apply the dependency injection principle.
+
+### Day 15 - Monday 25th November 2019
+
+- **Week 3 goals**:
+
+  - Build a simple web app.
+
+  - Follow an effective debugging process for web applications.
+
+  - Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS).
+
+  - Explain the MVC pattern.
+
+- I paired with Ellie today and maybe for the first time I struggled to keep pace with my pair. Nevertheless, I enjoyed the afternoon as we went along really well.
+
+- We learned about HTTP requests & responses, parameters, forms and started setting up a project with Sinatra.
