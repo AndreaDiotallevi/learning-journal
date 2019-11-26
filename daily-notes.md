@@ -2,7 +2,7 @@
 
 - **Week 1** : [Day 1](#day-1---monday-11th-november-2019) | [Day 2](#day-2---tuesday-12th-november-2019) | [Day 3](#day-3---wednesday-13th-november-2019) | [Day 4](#day-4---thursday-14th-november-2019) | [Day 5](#day-5---friday-15th-november-2019) | [Days 6 & 7](#days-6-7---saturday-sunday-16th-17th-november-2019)
 
-- **Week 2** : [Day 8](#day-8---monday-18th-november-2019) | [Day 9](#day-9---tuesday-19th-november-2019) | [Day 10](#day-10---wednesday-20th-november-2019) | [Day 11](#day-11---thursday-21th-november-2019) | [Day 12](#day-12---friday-22th-november-2019) | [Days 13 & 14](#days-13th-14th---saturday-sunday-23th-24th-november-2019) | [Day 15](#day-15---monday-25th-november-2019) 
+- **Week 2** : [Day 8](#day-8---monday-18th-november-2019) | [Day 9](#day-9---tuesday-19th-november-2019) | [Day 10](#day-10---wednesday-20th-november-2019) | [Day 11](#day-11---thursday-21th-november-2019) | [Day 12](#day-12---friday-22th-november-2019) | [Days 13 & 14](#days-13th-14th---saturday-sunday-23th-24th-november-2019) | [Day 15](#day-15---monday-25th-november-2019) | [Day 16](#day-16---tuesday-26th-november-2019) 
 
 ### Day 1 - Monday 11th November 2019
 
@@ -358,3 +358,17 @@
 - I paired with Ellie today and maybe for the first time I struggled to keep pace with my pair. Nevertheless, I enjoyed the afternoon as we went along really well.
 
 - We learned about HTTP requests & responses, parameters, forms and started setting up a project with Sinatra.
+
+### Day 16 - Tuesday 26th November 2019
+
+- The 3 things every README should include are:
+
+  - Description of what the project is about.
+
+  - Prerequisites and how to use it.
+
+  - How to run the tests.
+
+- Workshop on process modelling, applied to HTTP request/response cycle: we were divided in groups of five to discuss about HTTP GET and POST requests, draw a diagram and explain what headers are and what is the flow of the protocol.
+
+- I paired with Andrew on the web development project and it was interesting as it represented a complete new territory to me. I liked the fact that we went step by step trying to solve the challenges on our own and not rushing through without having understood the concepts.
