@@ -4,7 +4,7 @@
 
 - **Week 2** : [Day 8](#day-8---monday-18th-november-2019) | [Day 9](#day-9---tuesday-19th-november-2019) | [Day 10](#day-10---wednesday-20th-november-2019) | [Day 11](#day-11---thursday-21th-november-2019) | [Day 12](#day-12---friday-22th-november-2019) | [Days 13 & 14](#days-13th-14th---saturday-sunday-23th-24th-november-2019)
 
-- **Week 3** : [Day 15](#day-15---monday-25th-november-2019) | [Day 16](#day-16---tuesday-26th-november-2019) | [Day 17](#day-16---wednesday-27th-november-2019) 
+- **Week 3** : [Day 15](#day-15---monday-25th-november-2019) | [Day 16](#day-16---tuesday-26th-november-2019) | [Day 17](#day-17---wednesday-27th-november-2019) 
 
 ### Day 1 - Monday 11th November 2019
 
