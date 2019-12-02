@@ -1,5 +1,7 @@
 # Week 4 Reflections on Goal Setting
 
+[Monday](#monday-2nd-december-2019)
+
 By the end of the week all developers can:
 
 - Build a simple web app with a database
