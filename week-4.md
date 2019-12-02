@@ -30,4 +30,6 @@ It was interesting and the first time we set up and created a database. Next ste
 
 We spent a lot of time researching the right syntax for creating a new table from the command line. Next step is learning the most important query commands in order to manipulate table data.
 
+**Pairing with Jamie**
 
+The pairing session was a lot of fun. We were both very concentrated and laid back, and went on solving the challenges helping each other.
