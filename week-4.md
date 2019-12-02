@@ -18,4 +18,4 @@ So that I can quickly go to web sites I regularly visit <Motivation>
 I would like to see a list of bookmarks <Task>
 ```
 
-
+[Domain Model](./img/domain_model.png)
