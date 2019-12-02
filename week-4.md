@@ -20,12 +20,12 @@ I would like to see a list of bookmarks <Task>
 
 ![Domain Model](./img/domain_model.png)
 
-* Setting up a database with PostgreSQL
+**Setting up a database with PostgreSQL**
 
-=> It was interesting and the first time we set up and created a database. Next step is getting more comfortable with the common PostgreSQL terminal commands and learn more about what a relational database is.
+It was interesting and the first time we set up and created a database. Next step is getting more comfortable with the common PostgreSQL terminal commands and learn more about what a relational database is.
 
-* Creating the first table using SQL
+**Creating the first table using SQL**
 
-=> We spent a lot of time researching the right syntax for creating a new table from the command line. Next step is learning the most important query commands in order to manipulate table data.
+We spent a lot of time researching the right syntax for creating a new table from the command line. Next step is learning the most important query commands in order to manipulate table data.
 
 
