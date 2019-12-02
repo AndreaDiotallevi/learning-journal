@@ -10,13 +10,15 @@ By the end of the week all developers can:
 
 ## Monday 2nd December 2019
 
-* Further understanding of user stories and domain models:
+**Further understanding of user stories**
 
 ```
 As a time-pressed user <Stakeholder>
 So that I can quickly go to web sites I regularly visit <Motivation>
 I would like to see a list of bookmarks <Task>
 ```
+
+**Further understanding of domain models**
 
 ![Domain Model](./img/domain_model.png)
 
