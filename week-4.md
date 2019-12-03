@@ -40,15 +40,15 @@ By the end of the week all developers can:
 
   1. Use Homebrew to install the package: ```$ brew install postgresql```
   
-  2. Allow Homebrew to start and stop the Postgres service: ```$ brew services start postgresql```
+  1. Allow Homebrew to start and stop the Postgres service: ```$ brew services start postgresql```
   
-  3. Interact with the PostgreSQL database management system: ```psql postgres```
+  1. Interact with the PostgreSQL database management system: ```psql postgres```
   
-  4. Create a database using SQL (Structured Query Language): ```CREATE DATABASE "your_user_name_here";```
+  1. Create a database using SQL (Structured Query Language): ```CREATE DATABASE "your_user_name_here";```
   
-  5. List all database tables: ```$ \l```
+  1. List all database tables: ```$ \l```
   
-  6. Quit ```psql```: ```$ \q```
+  1. Quit ```psql```: ```$ \q```
 
 - **Create the first table using SQL**
 
