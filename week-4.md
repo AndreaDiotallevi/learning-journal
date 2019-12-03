@@ -35,20 +35,20 @@ By the end of the week all developers can:
 - **Is Postgres a database?**
 
   A common database system for modern web development is called PostgreSQL. PostgreSQL is actually a server that runs a database. Therefore, it can be started, stopped, and interacted with through an interface, ```psql```.
-
-- **Set up a database with PostgreSQL**
-
-  It was interesting and the first time we set up and created a database. Next step is getting more comfortable with the common PostgreSQL terminal commands and learn more about what a relational database is.
   
 - **Interact with PostgreSQL**
 
-  ```$ psql postgres```                    # Start the server
+  1. Use Homebrew to install the package: ```$ brew install postgresql```
   
-  ```$ CREATE DATABASE "database_name";``` # Create a database
+  2. Allow Homebrew to start and stop the Postgres service: ```$ brew services start postgresql```
   
-  ```$ \l```                               # List all databases
+  3. Interact with the PostgreSQL database management system: ```psql postgres```
   
-  ```$ \q```                               # Quit the server
+  4. Create a database using SQL (Structured Query Language): ```CREATE DATABASE "your_user_name_here";```
+  
+  5. List all database tables: ```$ \l```
+  
+  6. Quit ```psql```: ```$ \q```
 
 - **Create the first table using SQL**
 
