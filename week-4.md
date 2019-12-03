@@ -63,7 +63,7 @@ By the end of the week all developers can:
   It's a good idea to keep a record of how the database has been setup, both for your future reference and so that anyone contributing to your project knows how to setup the database.
 
   ```
-    # in db/migrations/01_create_bookmarks_table.sql
+  # in db/migrations/01_create_bookmarks_table.sql
   CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));
   ```
 
