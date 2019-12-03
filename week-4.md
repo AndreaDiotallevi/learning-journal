@@ -96,3 +96,12 @@ By the end of the week all developers can:
   - Delete a row from a database table: ```DELETE FROM bookmarks WHERE url = 'http://www.twitter.com';```
   
   - Update a table row: ```UPDATE bookmarks SET url = 'http://www.destroyallsoftware.com' WHERE url = 'http://www.askjeeves.com';```
+  
+- **Interacting with PostgreSQL from Ruby**
+
+  - Connecting to database: ```connection = PG.connect(dbname: 'bookmark_manager')```
+  
+  - Run the query on that connection: ```result = connection.exec('SELECT * FROM bookmarks')```
+  
+  - Map over the ```result``` variable to return the urls: ```
+    
