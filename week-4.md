@@ -28,7 +28,7 @@ By the end of the week all developers can:
 
   Take an empty directory. Get Sinatra up and running and showing "Hello World" when I visit localhost.
   
-- **What is a database?
+- **What is a database?**
 
   A database is simply organised part of a filesystem. It's optimised for storing and retrieving data.
   
@@ -42,9 +42,13 @@ By the end of the week all developers can:
   
 - **Interact with PostgreSQL**
 
-  ```$ psql postgres```                  # Start server
-  ```CREATE DATABASE "database_name";``` # Create a database
-  ```\l```                               # List all databases
+  ```$ psql postgres```                    # Start the server
+  
+  ```$ CREATE DATABASE "database_name";``` # Create a database
+  
+  ```$ \l```                               # List all databases
+  
+  ```$ \q```                               # Quit the server
 
 - **Create the first table using SQL**
 
