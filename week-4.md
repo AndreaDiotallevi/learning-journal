@@ -103,5 +103,17 @@ By the end of the week all developers can:
   
   - Run the query on that connection: ```result = connection.exec('SELECT * FROM bookmarks')```
   
-  - Map over the ```result``` variable to return the urls: ```
-    
+  - Map over the ```result``` variable to return the urls: ```result.map { |bookmark| bookmark['url'] }```
+  
+- **Connect TablePlus to your PostgreSQL database management system**
+
+  - Type ```localhost``` as a server running 'backgrounded' on your local machine
+  
+  - Type your computer username
+  
+  - Name the database and connect
+  
+  - Execute SQL via the little 'Terminal' icon
+  
+  - Switch databases via the little 'database' icon
+  
