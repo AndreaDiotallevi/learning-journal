@@ -10,7 +10,9 @@ By the end of the week all developers can:
 
 ## Monday 2nd December 2019
 
-- **Further understanding of user stories**
+- **Generate user stories from requirements**
+
+  Turn "users got to log in" into "As a user, so that I can access my stuff, I want to log in".
 
   ```
   As a time-pressed user <Stakeholder>
@@ -18,15 +20,33 @@ By the end of the week all developers can:
   I would like to see a list of bookmarks <Task>
   ```
 
-- **Further understanding of domain models**
+- **Furhter understanding of domain models**
 
   ![Domain Model](./img/domain_model.png)
+  
+- **Set up a Ruby web project**
 
-- **Setting up a database with PostgreSQL**
+  Take an empty directory. Get Sinatra up and running and showing "Hello World" when I visit localhost.
+  
+- **What is a database?
+
+  A database is simply organised part of a filesystem. It's optimised for storing and retrieving data.
+  
+- **Is Postgres a database?**
+
+  A common database system for modern web development is called PostgreSQL. PostgreSQL is actually a server that runs a database. Therefore, it can be started, stopped, and interacted with through an interface, ```psql```.
+
+- **Set up a database with PostgreSQL**
 
   It was interesting and the first time we set up and created a database. Next step is getting more comfortable with the common PostgreSQL terminal commands and learn more about what a relational database is.
+  
+- **Interact with PostgreSQL**
 
-- **Creating the first table using SQL**
+  ```$ psql postgres```                  # Start server
+  ```CREATE DATABASE "database_name";``` # Create a database
+  ```\l```                               # List all databases
+
+- **Create the first table using SQL**
 
   We spent a lot of time researching the right syntax for creating a new table from the command line. Next step is learning the most important query commands in order to manipulate table data.
 
