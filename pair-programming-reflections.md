@@ -1,6 +1,6 @@
 # Pair Programming Reflections
 
-[Day 23](#day-23-tuesday-3rd-december-2019---eve)
+[**Week 4**](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/week-4-notes.md) - [Day 23](#day-23-tuesday-3rd-december-2019---eve)
 
 ### Day 23, Tuesday 3rd December 2019 - Eve
 
