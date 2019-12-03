@@ -1,6 +1,6 @@
-# Week 4 Reflections on Goal Setting
+# Week 4 Notes
 
-[Monday](#monday-2nd-december-2019)
+[Monday](#monday-2nd-december-2019) | [Tuesday](#tuesday-3rd-december-2019)
 
 By the end of the week all developers can:
 
@@ -33,3 +33,5 @@ We spent a lot of time researching the right syntax for creating a new table fro
 **Pairing with Jamie**
 
 The pairing session was a lot of fun. We were both very concentrated and laid back, and went on solving the challenges helping each other.
+
+## Tuesday 3rd December 2019
