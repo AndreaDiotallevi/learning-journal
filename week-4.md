@@ -38,16 +38,40 @@ By the end of the week all developers can:
   
 - **Interact with PostgreSQL**
 
- 1. Use Homebrew to install the package: ```$ brew install postgresql```
- 1. Allow Homebrew to start and stop the Postgres service: ```$ brew services start postgresql```
- 1. Interact with the PostgreSQL database management system: ```psql postgres```
- 1. Create a database using SQL (Structured Query Language): ```CREATE DATABASE "your_user_name_here";```
- 1. List all database tables: ```$ \l```
- 1. Quit ```psql```: ```$ \q```
+  - Use Homebrew to install the package: ```brew install postgresql```
+  
+  - Allow Homebrew to start and stop the Postgres service: ```brew services start postgresql```
+  
+  - Interact with the PostgreSQL database management system: ```psql postgres```
+  
+  - Create a database using SQL (Structured Query Language): ```CREATE DATABASE "bookmark_manager";```
+  
+  - List all database tables: ```\l```
+  
+  - Quit ```psql```: ```\q```
 
 - **Create the first table using SQL**
 
-  We spent a lot of time researching the right syntax for creating a new table from the command line. Next step is learning the most important query commands in order to manipulate table data.
+  - Connect to database: ```\c bookmark_manager;```
+  
+  - Inspect the existing list of tables: ```\dt```
+  
+  - Create a table with 2 columns: ```CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));```
+  
+- **Document the database setup**
+
+  It's a good idea to keep a record of how the database has been setup, both for your future reference and so that anyone contributing to your project knows how to setup the database.
+
+  ```
+    # in db/migrations/01_create_bookmarks_table.sql
+  CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));
+  ```
+
+  In addition, the README needs to be updated with instructions on how to use these:
+    - Connect to ```psql```
+    - Create the database using the ```psql``` command ```CREATE DATABASE bookmark_manager;```
+    - Connect to the database using the ```pqsl``` command ```\c bookmark_manager;```
+    - Run the query we have saved in the file ```01_create_bookmarks_table.sql```
 
 - **Pairing with Jamie**
 
