@@ -68,9 +68,13 @@ By the end of the week all developers can:
   ```
 
   In addition, the README needs to be updated with instructions on how to use these:
+  
     - Connect to ```psql```
+    
     - Create the database using the ```psql``` command ```CREATE DATABASE bookmark_manager;```
+    
     - Connect to the database using the ```pqsl``` command ```\c bookmark_manager;```
+    
     - Run the query we have saved in the file ```01_create_bookmarks_table.sql```
 
 - **Pairing with Jamie**
@@ -78,3 +82,17 @@ By the end of the week all developers can:
   The pairing session was a lot of fun. We were both very concentrated and laid back, and went on solving the challenges helping each other.
 
 - ## Tuesday 3rd December 2019
+
+- **Manipulating table data**
+
+  - Display all columns from the table "bookmarks": ```SELECT * FROM bookmarks;```
+  
+  - Add a row to the table (using automatic ID): ```INSERT INTO bookmarks (url) VALUES ('http://www.makersacademy.com');```
+  
+  - Limit the number of records to the top two: ```SELECT * FROM bookmarks LIMIT 2;```
+  
+  - Scope our query to specific rows of data: ```SELECT * FROM bookmarks WHERE url = 'http://www.makersacademy.com';```
+  
+  - Delete a row from a database table: ```DELETE FROM bookmarks WHERE url = 'http://www.twitter.com';```
+  
+  - Update a table row: ```UPDATE bookmarks SET url = 'http://www.destroyallsoftware.com' WHERE url = 'http://www.askjeeves.com';```
