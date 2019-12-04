@@ -1,6 +1,6 @@
 # Pair Programming Reflections
 
-[**Week 4**](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/week-4-notes.md) - [Day 22](#day-22-monday-2nd-december-2019---jamie) | [Day 23](#day-23-tuesday-3rd-december-2019---eve) | [Day 24](#day 24-wednesday-4th-december-2019---julie)
+[**Week 4**](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/week-4-notes.md) - [Day 22](#day-22-monday-2nd-december-2019---jamie) | [Day 23](#day-23-tuesday-3rd-december-2019---eve) | [Day 24](#day-24-wednesday-4th-december-2019---julie)
 
 ### Day 22, Monday 2nd December 2019 - Jamie
 
