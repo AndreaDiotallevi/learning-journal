@@ -1,6 +1,6 @@
 # Week 4 Notes
 
-[Monday](#monday-2nd-december-2019) | [Tuesday](#tuesday-3rd-december-2019)
+[Monday](#monday-2nd-december-2019) | [Tuesday](#tuesday-3rd-december-2019) | [Wednesday](#wednesday-4th-december-2019)
 
 By the end of the week all developers can:
 
@@ -116,4 +116,79 @@ By the end of the week all developers can:
   - Execute SQL via the little 'Terminal' icon
   
   - Switch databases via the little 'database' icon
+  
+- ## Wednesday 4th December 2019
+
+  It's normal to have multiple environments in applications. These might include:
+
+    - A **development** environment that runs locally on your computer, so you can click around it and work on it.
+    
+    - A **production** environment that runs remotely on someone else's computer, so other people on the internet can click around it.
+    
+    - A **test** environment that runs locally on your computer whenever you run your tests. It comes into being especially for your tests, and disappears straight after your tests finish.
+    
+   There's also a **staging** environment, where your application runs remotely on someone else's computer, at a secret link so you can click around it to check it's all working right before you move it to production.
+   
+- **Set up a test database**
+
+  For each environment, we will have our own database.
+
+    - The **production** database will contain 'real' data. For instance: Facebook's production environment contains real-life users, posts, comments, likes, and so on.
+    
+    - The **test** database will contain no data. This way, we can set up whatever data we need right before we run our tests.
+    
+    - The **development** database will initially contain no data. If we run our application locally, we can add data to it.
+    
+- **Set up an Environment Variable to tell the application to use the test database when we run our tests**
+
+  ```
+  # in spec/spec_helper.rb
+
+  ENV['ENVIRONMENT'] = 'test'
+  ```
+
+  ```
+  # in lib/bookmark.rb
+
+  if ENV['ENVIRONMENT'] == 'test'
+    connection = PG.connect(dbname: 'bookmark_manager_test')
+  else
+    connection = PG.connect(dbname: 'bookmark_manager')
+  end
+  ```
+  
+- **Set up the testing environment correctly**
+  
+  **Tests should always run against an empty database**. We should set up any required Test data in the test itself. Let's write a script that sets up and clears out the test database each run.
+
+  We need to 'drop' the database between each run of the script. Let's use PostgreSQL's ```TRUNCATE``` command to do that:
+  
+  ```
+  # in spec/setup_test_database.rb
+
+  require 'pg'
+
+  def setup_test_database
+    connection = PG.connect(dbname: 'bookmark_manager_test')
+    connection.exec("TRUNCATE bookmarks;")
+  end
+  ```
+  
+- **Integrate the script into our test runner, ```rspec```***    
+
+  ```
+  # in spec/spec_helper.rb
+
+  require_relative './setup_test_database'
+
+  ENV['ENVIRONMENT'] = 'test'
+
+  RSpec.configure do |config|
+    config.before(:each) do
+      setup_test_database
+    end
+  end
+
+  ### rest of the file ###
+  ```
   
