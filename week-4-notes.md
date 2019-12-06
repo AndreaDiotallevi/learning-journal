@@ -222,4 +222,12 @@ By the end of the week all developers can:
 
   This pattern of accessing data from a database and wrapping it is sometimes called the 'Object-Relational Map (ORM) Pattern'.
   
+- **Add a column to a table**
+
+  ```
+  ALTER TABLE bookmarks ADD COLUMN title VARCHAR(60);
+  ```
+  
+  Rather than save each step as a separate file, we could've updated the previous CREATE TABLE command to include this new line. However, by saving each step as a separate file, and asking the developer to run each step of the command, we are making sure that the database setup exactly matches our own process, and any errors in the setup process can be easily rolled back.
+  
   
