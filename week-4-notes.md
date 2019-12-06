@@ -1,6 +1,6 @@
 # Week 4 Notes
 
-[Monday](#monday-2nd-december-2019) | [Tuesday](#tuesday-3rd-december-2019) | [Wednesday](#wednesday-4th-december-2019)
+[Monday](#monday-2nd-december-2019) | [Tuesday](#tuesday-3rd-december-2019) | [Wednesday](#wednesday-4th-december-2019) | [Thursday](#thursday-5th-december-2019)
 
 By the end of the week all developers can:
 
@@ -81,7 +81,7 @@ By the end of the week all developers can:
 
   The pairing session was a lot of fun. We were both very concentrated and laid back, and went on solving the challenges helping each other.
 
-- ## Tuesday 3rd December 2019
+## Tuesday 3rd December 2019
 
 - **Manipulating table data**
 
@@ -117,7 +117,7 @@ By the end of the week all developers can:
   
   - Switch databases via the little 'database' icon
   
-- ## Wednesday 4th December 2019
+## Wednesday 4th December 2019
 
   It's normal to have multiple environments in applications. These might include:
 
@@ -191,4 +191,35 @@ By the end of the week all developers can:
 
   ### rest of the file ###
   ```
+  
+## Thursday 5th December 2019
+
+- **Wrapping Database data in Program Objects**
+
+  A normal connection between a database and an application mode works in this way:
+
+    - Bring database data from database rows into your Ruby application.
+    
+    - Wrap that data in Ruby objects (models).
+    
+    - Ask a model to do things with the data it wraps.
+    
+    'Do things' could include: just expose the data directly (for instance, a Bookmark just exposes its url), or use it in some way (for instance, an Exam might have an average method which does some calculation with scores stored as columns in the database).
+    
+   For instance, let's imagine we're building a blog, which is a list of posts. The database for the blog has the following `posts` table:
+
+  ```
+  | id | title                         |
+  |----|-------------------------------|
+  | 1  | The team is the thing         |
+  | 2  | Shovels make me sad           |
+  | 3  | What is the 'simplest thing'? |
+  ```
+
+  Wrapping each row in a Ruby object allows me to access each post in my application as an instance of the `Post` class. Then, I can query each post: for instance, I could ask for `post.id`, `post.title`, or more complicated things like `post.word_count`.
+
+  The `Post` class would, in this case, _wrap_ the data in each row of the table, and provide a thin layer of logic on top of that data (for instance, logic for calculating the `word_count`).
+
+  This pattern of accessing data from a database and wrapping it is sometimes called the 'Object-Relational Map (ORM) Pattern'.
+  
   
