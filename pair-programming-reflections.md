@@ -18,6 +18,12 @@ It was a very pleasant afternoon. We first had a chat about how we had been feel
 
 ### Day 25, Thursday 5th December 2019 - Tuan
 
+We paired on a tough step, requiring to wrap database data into an object. I felt we did pretty well to solve the challenge together and understand the underlining concepts. It was a very relaxed pairing session.
+
 ### Day 26, Friday 6th December 2019 - Jonathan
 
+Unfortunately we didn't have too much time to pair properly and the session felt a bit short. Despite of that, we managed to be efficient and solve two steps of the bookmark manager challenge.
+
 ### Day 29, Monday 9th December 2019 - Harrison
+
+We started learning Javascript. I thought it would be easier than it actually was. I struggled at first to grasp the way JS handles functions, instead of the Ruby classes and methods. Most of the time, we worked in parallel on our computers, exchanging comments. We finally got to pair on fizzbuzz and it was nice and enjoyable.
