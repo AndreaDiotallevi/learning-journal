@@ -1,6 +1,6 @@
 # Week 4 Notes
 
-[Monday](#monday-2nd-december-2019) | [Tuesday](#tuesday-3rd-december-2019) | [Wednesday](#wednesday-4th-december-2019) | [Thursday](#thursday-5th-december-2019)
+[Monday](#monday-2nd-december-2019) | [Tuesday](#tuesday-3rd-december-2019) | [Wednesday](#wednesday-4th-december-2019) | [Thursday](#thursday-5th-december-2019) | [Friday](#friday-6th-december-2019)
 
 By the end of the week all developers can:
 
@@ -230,4 +230,12 @@ By the end of the week all developers can:
   
   Rather than save each step as a separate file, we could've updated the previous CREATE TABLE command to include this new line. However, by saving each step as a separate file, and asking the developer to run each step of the command, we are making sure that the database setup exactly matches our own process, and any errors in the setup process can be easily rolled back.
   
-  
+## Friday 6th December 2019
+
+- [**Sinatra Restful Routes**](https://learn.co/lessons/sinatra-restful-routes-readme)
+
+  A RESTful route is a route that provides mapping between HTTP verbs (get, post, put, delete, patch) to controller CRUD actions (create, read, update, delete). Instead of relying solely on the URL to indicate what site to visit, a RESTful route also depends on the HTTP verb and the URL.
+
+  What this means is that when your application receives an HTTP request, it introspects on that request and identifies the HTTP method and URL, connects that with a corresponding controller action that has that method and URL, executes the code in that action, and determines which response gets sent back to the client. We don't need to worry about how the mechanics of the pattern matching occurs, just that it does happen.
+
+  It's important to note that much of the CRUD actions are different actions that occur on the same resource. Let's take the example of an article with the ID 4. If we wanted to view the article, we would make a GET request to /articles/4. But what about when I want to update that article? Am I hitting a different resource? Nope! Just doing a different action to that same resource. So instead of a GET against /articles/4 we do a PUT. That's why separating what you're talking to (the resource/noun) from the action you're doing (the HTTP verb) is important! That's key to REST.
