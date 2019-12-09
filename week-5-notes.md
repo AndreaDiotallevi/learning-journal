@@ -9,7 +9,15 @@ By the end of the week all developers can:
 
 ## Monday 9th December 2019
 
-- **```function``` in Javascript**
+- [**```function``` in Javascript**](https://github.com/makersacademy/course/blob/master/pills/js_functions.md)
+
+- **Set up Jasmine**
+
+  - The model files go into the ```src``` folder
+  
+  - ```open -a "Google Chrome" SpecRunner.html``` to run the tests
+  
+  - There is no ```context``` block
 
 ## Tuesday 10th December 2019
  
