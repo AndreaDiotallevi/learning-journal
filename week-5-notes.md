@@ -20,6 +20,8 @@ By the end of the week all developers can:
   - There is no ```context``` block
 
 ## Tuesday 10th December 2019
+
+- [**What is the scope of variables in Javascript**](https://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript/500459)
  
 ## Wednesday 11th December 2019
   
