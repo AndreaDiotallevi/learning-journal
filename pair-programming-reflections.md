@@ -2,7 +2,7 @@
 
 [**Week 4**](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/week-4-notes.md) - [Monday](#week-4-monday-2nd-december-2019---jamie) | [Tuesday](#week-4-tuesday-3rd-december-2019---eve) | [Wednesday](#week-4-wednesday-4th-december-2019---julie) | [Thursday](#week-4-thursday-5th-december-2019---tuan) | [Friday](#week-4-friday-6th-december-2019---jonathan)
 
-[**Week 5**](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/week-5-notes.md) - [Monday](#week-5-monday-9th-december-2019---harrison)
+[**Week 5**](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/week-5-notes.md) - [Monday](#week-5-monday-9th-december-2019---harrison) | [Tuesday](#week-5-tuesday-10th-december-2019---ben) | [Wednesday](#week-5-wednesday-11th-december-2019---dawid) | [Thursday](#week-5-thursday-12th-december-2019---alastair)
 
 ### Week 4, Monday 2nd December 2019 - Jamie
 
@@ -27,3 +27,13 @@ Unfortunately we didn't have too much time to pair properly and the session felt
 ### Week 5, Monday 9th December 2019 - Harrison
 
 We started learning Javascript. I thought it would be easier than it actually was. I struggled at first to grasp the way JS handles functions, instead of the Ruby classes and methods. Most of the time, we worked in parallel on our computers, exchanging comments. We finally got to pair on fizzbuzz and it was nice and enjoyable.
+
+### Week 5, Tuesday 10th December 2019 - Ben
+
+It was a very interesting and positive session. For the first time I tried a different driver-navigator style and I liked it much more than the one I had used before. The navigator gives all the instructions to the driver, which types and ask questions when not sure. This style proved to be much more engaging, improving team work.
+
+### Week 5, Wednesday 11th December 2019 - Dawid
+
+Unfortunately we didn't have too much time, as the day was filled with workshops. However, the session went really smoothly and we managed to get a lot of work done, with a very efficient driver-navigator style.
+
+### Week 5, Thursday 12th December 2019 - Alastair
