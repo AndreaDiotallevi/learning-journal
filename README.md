@@ -22,3 +22,12 @@ Break one class into two classes that work together, while maintaining test cove
 Unit test classes in isolation using mocking | A new concept I think I have grasped well | The [takeaway challenge](https://github.com/AndreaDiotallevi/takeaway-challenge)
 Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) | Happy about my approach on solving problems, with the goal of getting to the most efficient solution possible
 Review another person's code and give them meaningful feedback | Learned how to comment another person's code on GitHub, making sure the feedback is constructive and kind
+
+## Week 3
+
+Learning Objectives | Reflections | Links / Evidence
+------------------- | ----------- | ----------------
+Build a simple web app | The [rock paper scissors challenge](https://github.com/AndreaDiotallevi/rps-challenge)
+Follow an effective debugging process for web applications | 
+Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) | 
+Explain the MVC pattern | 
