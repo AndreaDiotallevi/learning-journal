@@ -8,7 +8,7 @@ This repository is a detailed learning journal of my daily progress whilst at Ma
 
 Learning Objectives | Evidence | Feedback | Reflections
 ------------------- | -------- | -------- | -----------
-Test-drive a simple program using objects and methods
+Test-drive a simple program using objects and methods | The [airport](https://github.com/AndreaDiotallevi/airport_challenge) challenge
 Pair using the driver-navigator style
 Follow an effective debugging process
 Describe some basic OO principles like encapsulation, SRP
