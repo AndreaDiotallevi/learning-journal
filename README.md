@@ -15,7 +15,7 @@ Describe some basic OO principles like encapsulation, SRP | Good grasp of OOP co
 
 ## Week 2
 
-Learning Objectives | Reflections | Links / Evidence
+Learning Objectives | Self-assessment | Links / Evidence
 ------------------- | ----------- | ----------------
 Use all of week 1's skills | Confident in having achieved the first week goals. Some additional work to be done on debugging and SRP on more complex projects | [takeaway challenge](https://github.com/AndreaDiotallevi/takeaway-challenge)
 Break one class into two classes that work together, while maintaining test coverage | The hardest challenge of the week. Happy about my improvements. Still need more practice on the best process for extracting a class and its methods and tests
@@ -25,9 +25,9 @@ Review another person's code and give them meaningful feedback | Learnt to comme
 
 ## Week 3
 
-Learning Objectives | Reflections | Links / Evidence
+Learning Objectives | Self-assessment | Links / Evidence
 ------------------- | ----------- | ----------------
-Build a simple web app | Learned about RESTful routes and basic concepts of a MVC app | The [rock paper scissors challenge](https://github.com/AndreaDiotallevi/rps-challenge)
-Follow an effective debugging process for web applications | Debugging web applications have been more challenging than debugging back end ruby code, as you also have to check that the application actually does what it is supposed to do in the browser
-Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) |
-Explain the MVC pattern | 
+Build a simple web app | Learnt RESTful routes and basic concepts of a MVC app | [rock paper scissors challenge](https://github.com/AndreaDiotallevi/rps-challenge)
+Follow an effective debugging process for web applications | Debugging web applications have been more challenging than debugging back end code, as you also have to check that the application actually does what it is supposed to do in the browser
+Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) | Studied the most common HTTP requests and their responses. Consolidated the front end code structure of HTML and CSS
+Explain the MVC pattern | Good understanding of the separation of concerns between the model, view and controller. Need more study on RESTful APIs.
