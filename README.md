@@ -6,9 +6,9 @@ This repository is a detailed learning journal of my daily progress whilst at Ma
 
 ## Week 1
 
-Learning Objectives | Reflections | Evidence
+Learning Objectives | Reflections | Links / Evidence
 ------------------- | ----------- | --------
-Test-drive a simple program using objects and methods | I feel I have a good understanding of the TTD process and its use as a guidance for modeling efficient obejcts and methods  | The [airport challenge](https://github.com/AndreaDiotallevi/airport_challenge)
-Pair using the driver-navigator style | Constructive and positive feedbacks from my pairing partners
-Follow an effective debugging process
-Describe some basic OO principles like encapsulation, SRP
+Test-drive a simple program using objects and methods | Good understanding of the TTD process - able to use it as a guidance for modelling efficient objects and methods  | The [airport challenge](https://github.com/AndreaDiotallevi/airport_challenge)
+Pair using the driver-navigator style | Happy about my communication and process, respecting the the driver and navigator roles  | Constructive and positive feedback from my pairing partners
+Follow an effective debugging process | Improving day after day - next step is to make sure to always read the stack trace and not trying to guess what the problem might be
+Describe some basic OO principles like encapsulation, SRP | Have a good grasp of the concepts - next step is to refine their practical application to real projects
