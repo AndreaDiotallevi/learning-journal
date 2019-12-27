@@ -13,12 +13,10 @@ By the end of the week all developers can:
 ## Monday 16th December 2019
 
 - **MakersBnB group project setup**
-  
-  Components: Me, Sam, Andrew and Tuan.
 
 - **Retro**
 
-  - Sam: 
+  - Sam:
     I think we got quite a bit done
     We have been courteous
     We weren’t as direct and it cost us some time deliberating; How direct should we be?
@@ -53,3 +51,77 @@ By the end of the week all developers can:
     Andrew: Trello
     Sam: Think through rough class diagrams as they work with active record
     
+## Tuesday 17th December 2019
+
+- **Retro**
+
+  - Andrea:
+    Improved compared to previous day
+    More clarity 
+    Structured pairing and splitting task was great
+    No problems with conflict
+    Happy with half day split and mid day discussion
+    Code review feedback, feels rushed
+    Code review pushed to after lunch
+    
+  - Sam:
+    Went well
+    Uncomfortable with adjusted our whole layout to mock instead of following our own plan as real world wouldn’t be given a such mock-up but understands 
+    It went well smoothly because we did some reading towards at home from yesterday retrospective
+    Less aprehension compared to the day before
+    Wish we could of ended the day with all passing test
+    Our targets was too set too high for today
+ 
+  - Andrew:
+    Today went well
+    Got a lot done
+    Also happy with the delegation of task
+    Focus and efficient
+    
+  - Tuan:
+    Very happy with my the group collaboration and split into pairing
+    1 step away from producing a MVP 
+    Feels like we didn’t rush anything
+    
+  - Home study for the night
+    Andrew: Read through the specs of additional requirements
+    better understand in active records docs
+    
+## Wednesday 18th December 2019
+
+- **Summary of days achievments**
+
+  - Morning code review
+  - Group merging session, went smoothly (VS code worked well for sorting merge conflicts)
+  - Group stand up to discuss the activities for the day, most of the session was discussing the database structure for converting requests into bookings although other activities were listed (see previous image)
+  - Debated 2 options for the bookings database
+    1. Requests get transferred to a separate booking table when confirmed
+    2. Add an extra column “status’ column to the requests table with options “Not Confirmed”,”Confirmed” or “Denied"
+  - The final decision was to add an extra column to the request table with status
+  - Group split 3:1, 3 looked at handling received requests/confirmation/database updates to suit, 1 looked at how to implement a calendar with greyed out invalid dates
+  - Implememented the calendar into the main application
+
+- **Retro**
+
+  - Tuan:
+    Prefers pairing to mobbing. Sees himself as more effective in a pair
+    Happy with progress
+
+  - Sam:
+    Starting to appreciate Andreas’ approach of ‘doing less, but doing it well and in the correct process'
+    The day less structured because of bugs
+    Thought splitting small tasks like the calendar to one person worked well, should consider similar in the future
+    Starting to get a better understanding of other peoples perspectives, feels will help for the remaining days of the week Feels like will understand everyones perspectives better tomorrow
+
+  - Andrew:
+    Initial thoughts were the day didn’t go as well as Tuesday when we worked in pairs. However on closer reflection this is probably biased by the fact that today had some more complex problems to solve, hence more bugs
+    Agree with Sam that splitting smaller intricate tasks to a single person to solve can work well and definitely something to consider for the remainder of the week.
+    Like the fact that there are strong personalities in the group with lots of opinions, this will likely lead to some differences of opinion but this is what makes a healthy project team. Its certainly better than the opposite where no opinions are given so we should embrace it
+    And despite the strong personalities I feel we are resolving any differences in a efficient mature manner.
+
+  - Andrea:
+    Liked the review process in the morning, where everyone separated for 15-20 mins to individually review and comment on the code (worked better than the group reviews previously)
+    Merge process was smooth, thought the VS code interface for resolving merge conflicts worked well. Perhaps should share around the driver for merging.
+    Asked an open question: Should the standup be open or more structured? (Perhaps decide at the next standup???)
+    Liked we tried a different way of pairing 3 and 1
+    Maybe have more breaks - not enough balance between team bonding and task in hand
