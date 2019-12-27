@@ -27,7 +27,7 @@ Review another person's code and give them meaningful feedback | Learned how to 
 
 Learning Objectives | Reflections | Links / Evidence
 ------------------- | ----------- | ----------------
-Build a simple web app | The [rock paper scissors challenge](https://github.com/AndreaDiotallevi/rps-challenge)
-Follow an effective debugging process for web applications | 
-Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) | 
+Build a simple web app | Learned about RESTful routes and basic concepts of a MVC app | The [rock paper scissors challenge](https://github.com/AndreaDiotallevi/rps-challenge)
+Follow an effective debugging process for web applications | Debugging web applications have been more challenging than debugging back end ruby code, as you also have to check that the application actually does what it is supposed to do in the browser
+Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) |
 Explain the MVC pattern | 
