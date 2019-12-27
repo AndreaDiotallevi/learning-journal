@@ -125,3 +125,34 @@ By the end of the week all developers can:
     Asked an open question: Should the standup be open or more structured? (Perhaps decide at the next standup???)
     Liked we tried a different way of pairing 3 and 1
     Maybe have more breaks - not enough balance between team bonding and task in hand
+    
+## Thursday 19th of December 2019
+
+- **Retro**
+
+  - Sam:
+    Delegated tasks properly
+    A lot of tough challenges that we got in the end
+    Went a lot smoother in the standup
+    Happy with everything
+    Happy with pairing with Andrew - learnt a lot
+    Merge went smoothly
+    We should freeze features
+    
+  - Tuan:
+    Pairing went really well
+    Would have liked to be there when we merged everything in the end
+    Standup in the morning - enjoyed that each of us had our own time to talk
+
+  - Andrew
+    Pleased how much we learnt on the calendar thing - it was tough to get it to work properly
+    The morning standup wen well with the individual talking intent
+    Would like to layout the app nicely
+    Had a look at JOSN but probably it is not to implement now
+
+  - Andrea
+    Pleased how we improved in all fronts 
+    Split the work work well
+    Improved communication
+    Took breaks and went for lunch together
+    Happy about the app in terms of functionality
