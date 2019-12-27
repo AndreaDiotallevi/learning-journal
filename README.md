@@ -11,4 +11,4 @@ Learning Objectives | Reflections | Links / Evidence
 Test-drive a simple program using objects and methods | Good understanding of the TTD process - able to use it as a guidance for modelling efficient objects and methods  | The [airport challenge](https://github.com/AndreaDiotallevi/airport_challenge)
 Pair using the driver-navigator style | Happy about my communication and process skills, respecting the driver and navigator roles  | Constructive and positive feedback from my pairing partners
 Follow an effective debugging process | Good improvements over the week, from not paying too much attention to the stack trace, to taking time to carefully analyse each line, without trying to guess where the bug may come from
-Describe some basic OO principles like encapsulation, SRP | Good grasp of the OOP concepts and looking forward to refine their practical application to more complex projects
+Describe some basic OO principles like encapsulation, SRP | Good grasp of the OOP concepts with a need to refine their practical application on more complex projects
