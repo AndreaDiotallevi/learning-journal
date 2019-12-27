@@ -17,8 +17,8 @@ Describe some basic OO principles like encapsulation, SRP | Good grasp of the OO
 
 Learning Objectives | Reflections | Links / Evidence
 ------------------- | ----------- | ----------------
-Use all of week 1's skills | Confident in having achieved them. Some more work needed on debugging and SRP in practical projects | 
+Use all of week 1's skills | Confident in having achieved them. Some more work needed on debugging and SRP in practical projects | The [takeaway challenge](https://github.com/AndreaDiotallevi/takeaway-challenge)
 Break one class into two classes that work together, while maintaining test coverage | The hardest challenge of the week. Happy about my improvements. Still need more practice on the best process and logical steps
-Unit test classes in isolation using mocking | A new concept I think I have grasped well
+Unit test classes in isolation using mocking | A new concept I think I have grasped well | The [takeaway challenge](https://github.com/AndreaDiotallevi/takeaway-challenge)
 Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) | Happy about my approach on solving problems, with the goal of getting to the most efficient solution possible
 Review another person's code and give them meaningful feedback | Learned how to comment another person's code on GitHub, making sure the feedback is constructive and kind
