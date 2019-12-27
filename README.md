@@ -7,8 +7,18 @@ This repository is a detailed learning journal of my daily progress whilst at Ma
 ## Week 1
 
 Learning Objectives | Reflections | Links / Evidence
-------------------- | ----------- | --------
-Test-drive a simple program using objects and methods | Good understanding of the TTD process - able to use it as a guidance for modelling efficient objects and methods | The [airport challenge](https://github.com/AndreaDiotallevi/airport_challenge)
-Pair using the driver-navigator style | Happy about my communication and process skills, respecting the driver and navigator roles  | Positive feedback from my [pair-programming sessions](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/pair-programming-reflections.md)
-Follow an effective debugging process | Good improvements over the week, from not paying too much attention to the stack trace, to taking time to carefully analyse each line, without trying to guess where the bug may come from | Positive feedback from my second [process workshop](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/process-workshop-feedback.md)
-Describe some basic OO principles like encapsulation, SRP | Good grasp of the OOP concepts with a need to refine their practical application on more complex projects | The [airport challenge](https://github.com/AndreaDiotallevi/airport_challenge)
+------------------- | ----------- | ----------------
+Test-drive a simple program using objects and methods | Good understanding of the TTD process. Able to apply it as a guidance for modelling efficient objects and methods | The [airport challenge](https://github.com/AndreaDiotallevi/airport_challenge)
+Pair using the driver-navigator style | Happy about my communication and process skills. Good attention and focus on respecting the driver and navigator roles  | Positive feedback from my [pair-programming sessions](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/pair-programming-reflections.md)
+Follow an effective debugging process | Good improvements over the week. From not paying too much attention to the stack trace, to taking time to carefully analyse each line, without trying to guess where the bug may come from | Positive feedback from my second [process workshop](https://github.com/AndreaDiotallevi/makers-portfolio/blob/master/process-workshop-feedback.md)
+Describe some basic OO principles like encapsulation, SRP | Good grasp of the OOP concepts. Need to refine their practical application on more complex projects | The [airport challenge](https://github.com/AndreaDiotallevi/airport_challenge)
+
+## Week 2
+
+Learning Objectives | Reflections | Links / Evidence
+------------------- | ----------- | ----------------
+Use all of week 1's skills | Confident in having achieved them. Some more work needed on debugging and SRP in practical projects | 
+Break one class into two classes that work together, while maintaining test coverage | The hardest challenge of the week. Happy about my improvements. Still need more practice on the best process and logical steps
+Unit test classes in isolation using mocking | A new concept I think I have grasped well
+Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) | Happy about my approach on solving problems, with the goal of getting to the most efficient solution possible
+Review another person's code and give them meaningful feedback | Learned how to comment another person's code on GitHub, making sure the feedback is constructive and kind
