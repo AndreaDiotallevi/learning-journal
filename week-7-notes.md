@@ -72,3 +72,15 @@ Most of the work and interventions we have run historically are meant to 'de-mag
     exports.Circle = Circle;
   })(this);
   ```
+
+- **Immediately Invoked Function Expression (IIFE)**
+
+  ```
+  (function() {
+    console.log("hi");
+  })();
+  ```
+  
+  [JavaScript Module Pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
+  
+  
