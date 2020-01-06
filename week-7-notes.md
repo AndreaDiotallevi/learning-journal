@@ -14,7 +14,7 @@ Most of the work and interventions we have run historically are meant to 'de-mag
 
 ## Monday 6th January 2019
 
-- **Questions & responses from Michael**
+- **Michael's answers to my questions**
 
   - A controller route should contain instructions in relation to the HTTP header (get, post, etc.) and the resource (```/themes/:id```). It is best not to manipulate data not in relation with that resource.
   
