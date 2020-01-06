@@ -31,3 +31,44 @@ Most of the work and interventions we have run historically are meant to 'de-mag
   - REST is just a convention. SOUP is another one for instance.
   
   - The database is used to store data. Operations and calculations on the data should be carried out by the model.
+  
+- **Writing tests without a testing library**
+
+  Test:
+  
+  ```js
+  // assert.js
+
+  var assert = {
+    isTrue: function(assertionToCheck) {
+      if (!assertionToCheck) {
+        throw new Error("Assertion failed: " + assertionToCheck + " is not truthy");
+      }
+    };
+  };
+  ```
+
+  ```js
+  // circle-tests.js
+
+  function testCircleRadiusDefaultsTo10() {
+    var circle = new Circle();
+    assert.isTrue(circle.radius === 10);
+  };
+
+  testCircleRadiusDefaultsTo10();
+  ```
+  
+  Code:
+  
+  ```js
+  // circle.js
+
+  (function(exports) {
+    function Circle() {
+      this.radius = 10;
+    };
+
+    exports.Circle = Circle;
+  })(this);
+  ```
