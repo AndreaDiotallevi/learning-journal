@@ -1,6 +1,6 @@
 # Week 7 Notes
 
-[Monday](#monday-6th-january-2019) | [Tuesday](#tuesday-7th-january-2019) | [Wednesday](#wednesday-8th-january-2019) | [Thursday](#thursday-9th-january-2019) | [Friday](#friday-10th-january-2019)
+[Monday](#monday-6th-january-2020) | [Tuesday](#tuesday-7th-january-2020) | [Wednesday](#wednesday-8th-january-2020) | [Thursday](#thursday-9th-january-2020) | [Friday](#friday-10th-january-2020)
 
 By the end of the week all developers can:
 
@@ -12,7 +12,7 @@ By the end of the week all developers can:
 
 Most of the work and interventions we have run historically are meant to 'de-magic' Javascript and force developers to confront the pieces they are glossing over in an attempt to get work done.
 
-## Monday 6th January 2019
+## Monday 6th January 2020
 
 - **Michael's answers to my questions**
 
@@ -81,6 +81,28 @@ Most of the work and interventions we have run historically are meant to 'de-mag
   })();
   ```
   
-  [JavaScript Module Pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
+[JavaScript Module Pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
   
+- **Paired with Harry**
   
+## Tuesday 7th January 2020
+  
+[Understanding closures in JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda)
+  
+- **Paired with Hisham**
+
+## Wednesday 8th January 2020
+
+- **JS Event Loop Workshop**
+
+- **Paired with Eve**
+
+## Thursday 9th January 2020
+
+- **JS Module Pattern Workshop**
+
+- **Paired with Andrew**
+
+## Friday 10th January 2020
+
+- **Paired with Alastair**
