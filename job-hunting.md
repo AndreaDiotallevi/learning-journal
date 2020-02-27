@@ -23,4 +23,5 @@
 * Thursday 27/02/2020:
   - Complete external cv
   - Go to the "London Tech Job Fair Spring 2020" meetup
+  - Book external review for Monday the 2nd of March
   
