@@ -47,3 +47,4 @@
 * Friday 28/02/2020:
   - Refine external cv
   - Update linkedin profile with better info, new skills and medium article
+  - Add personal profile to glassdoor.co.uk and app.otta.com
