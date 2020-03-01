@@ -53,6 +53,6 @@
   - Add personal profile to talent.io
   - Search for jobs on glassdoor and linkedin
   
-* Sunday 30/02/2020:
+* Sunday 01/03/2020:
   - Apply for Junior Full Stack Developer role at [Hometree](https://www.hometree.co.uk/)
   - Start Python side project
