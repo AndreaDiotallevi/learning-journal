@@ -56,3 +56,8 @@
 * Sunday 01/03/2020:
   - Apply for Junior Full Stack Developer role at [Hometree](https://www.hometree.co.uk/)
   - Start Python side project
+
+### Week 3 (02 Mar - 08 Mar 2020):
+
+* Monday 02/03/2020:
+  - Do external review number 5 on the [spell-checker](https://github.com/AndreaDiotallevi/spell-checker) challenge and feel it went extremely well - my best so far
