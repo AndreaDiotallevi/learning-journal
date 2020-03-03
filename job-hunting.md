@@ -63,3 +63,6 @@
   - Do external review number 5 on the [spell-checker](https://github.com/AndreaDiotallevi/spell-checker) challenge and feel it went extremely well - my best so far
   - Complete the Makers Academy first weekend challenge [Airport](https://github.com/AndreaDiotallevi/airport-python/tree/master) in Python
   - Apply for Software Engineer (Full-stack) role at [LandTech](https://land.tech/)
+  
+* Tuesday 03/03/2020:
+  - Add personal profile on hired
