@@ -66,3 +66,6 @@
   
 * Tuesday 03/03/2020:
   - Add personal profile on hired
+  
+* Wednesday 04/03/2020:
+  - Attend Makers lunch talk on algorithms with Andrew from Funding Circle
