@@ -70,3 +70,6 @@
 * Wednesday 04/03/2020:
   - Attend Makers lunch talk on algorithms with Andrew from Funding Circle
   - Redesign external cv for better readability
+  
+* Thursday 05/03/2020:
+  - Apply for Software Engineer (Full-stack) role at [Unibuddy](https://unibuddy.com/)
