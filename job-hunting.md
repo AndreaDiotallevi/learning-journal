@@ -73,3 +73,6 @@
   
 * Thursday 05/03/2020:
   - Apply for Software Engineer (Full-stack) role at [Unibuddy](https://unibuddy.com/)
+  
+* Friday 06/03/2020:
+  - Apply for Full-stack & Ruby on Rails Developer (Junior) role at [Ably Realtime](https://www.ably.io/)
