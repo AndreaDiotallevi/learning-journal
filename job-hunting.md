@@ -76,3 +76,6 @@
   
 * Friday 06/03/2020:
   - Apply for Full-stack & Ruby on Rails Developer (Junior) role at [Ably Realtime](https://www.ably.io/)
+  
+* Saturday 07/03/2020
+  - Complete the [bank](https://github.com/AndreaDiotallevi/bank-python) tech test in Python
