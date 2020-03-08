@@ -79,3 +79,6 @@
   
 * Saturday 07/03/2020
   - Complete the [bank](https://github.com/AndreaDiotallevi/bank-python) tech test in Python
+  
+* Sunday 08/03/2020
+  - Apply for Graduate Software Engineer role at [Privitar](https://www.privitar.com/)
