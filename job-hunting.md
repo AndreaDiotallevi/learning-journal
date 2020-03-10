@@ -1,6 +1,6 @@
 # Job Hunting
 
-### Week 1 (17 - 23 Feb 2020):
+### Week 1 (17 - 23 Feb 2020)
 
 * Monday 17/02/2020
   - Work on Hub profile
@@ -23,20 +23,20 @@
 * Sunday 23/02/2020
   - Apply to [ClearBank](https://www.clear.bank/) position through Makers
 
-### Week 2 (24 Feb - 01 Mar 2020):
+### Week 2 (24 Feb - 01 Mar 2020)
 
-* Monday 24/02/2020:
+* Monday 24/02/2020
   - Clean up READMEs for all my cv projects
 
-* Tuesday 25/02/2020:
+* Tuesday 25/02/2020
   - Add tests to the Moovli project to improve test coverage
   - Setup automatic Heroku deployment in Travis
 
-* Wednesday 26/02/2020:
+* Wednesday 26/02/2020
   - Add Codeclimate report to all my cv projects
   - Add Travis build and Codeclimate badges to cv projects
 
-* Thursday 27/02/2020:
+* Thursday 27/02/2020
   - Complete external cv
   - Book external review for Monday the 2nd of March
   - Attend the "London Tech Job Fair Spring 2020" meetup and apply to the following companies:
@@ -44,37 +44,37 @@
     - [Mars](https://www.mars.com/)
     - [Causa Lens](https://www.causalens.com/)
   
-* Friday 28/02/2020:
+* Friday 28/02/2020
   - Refine external cv
   - Update linkedin profile with better info, new skills and medium article
   - Add personal profile to glassdoor.co.uk and app.otta.com
   
-* Saturday 29/02/2020:
+* Saturday 29/02/2020
   - Add personal profile to talent.io
   - Search for jobs on glassdoor and linkedin
   
-* Sunday 01/03/2020:
+* Sunday 01/03/2020
   - Apply for Junior Full Stack Developer role at [Hometree](https://www.hometree.co.uk/)
   - Start Python side project
 
-### Week 3 (02 Mar - 08 Mar 2020):
+### Week 3 (02 Mar - 08 Mar 2020)
 
-* Monday 02/03/2020:
+* Monday 02/03/2020
   - Do external review number 5 on the [spell-checker](https://github.com/AndreaDiotallevi/spell-checker) challenge and feel it went extremely well - my best so far
   - Complete the Makers Academy first weekend challenge [Airport](https://github.com/AndreaDiotallevi/airport-python/tree/master) in Python
   - Apply for Software Engineer (Full-stack) role at [LandTech](https://land.tech/)
   
-* Tuesday 03/03/2020:
+* Tuesday 03/03/2020
   - Add personal profile on hired
   
-* Wednesday 04/03/2020:
+* Wednesday 04/03/2020
   - Attend Makers lunch talk on algorithms with Andrew from Funding Circle
   - Redesign external cv for better readability
   
-* Thursday 05/03/2020:
+* Thursday 05/03/2020
   - Apply for Software Engineer (Full-stack) role at [Unibuddy](https://unibuddy.com/)
   
-* Friday 06/03/2020:
+* Friday 06/03/2020
   - Apply for Full-stack & Ruby on Rails Developer (Junior) role at [Ably Realtime](https://www.ably.io/)
   
 * Saturday 07/03/2020
@@ -84,7 +84,7 @@
   - Apply for Graduate Software Engineer role at [Privitar](https://www.privitar.com/)
   - Apply for Junior Backend Developer role at [YYT](https://yyt.dev/)
   
-### Week 4 (09 Mar - 15 Mar 2020):
+### Week 4 (09 Mar - 15 Mar 2020)
 
-* Monday 09/03/2020:
+* Monday 09/03/2020
   - Start a personal project in React, to showcase my generative artworks
