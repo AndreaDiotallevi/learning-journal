@@ -88,3 +88,6 @@
 
 * Monday 09/03/2020
   - Start a personal project in React, to showcase my generative artworks
+  
+* Tuesday 10/03/2020
+  - Complete my generative art website main page and about page
