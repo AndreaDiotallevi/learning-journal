@@ -91,3 +91,6 @@
   
 * Tuesday 10/03/2020
   - Complete my generative art website main page and about page
+  
+* Wednesday 11/03/2020
+  - Apply for Backend Software Engineer (Python / Django) at [Tivix](https://www.tivix.com/)
