@@ -99,3 +99,12 @@
   
 * Thursday 12/03/2020
   - Apply for Junior Full Stack Engineer role at [Stairway](https://www.stairwaylearning.com/)
+  
+* Friday 13/03/2020
+  - Work on my personal website
+  
+* Saturday 14/03/2020
+  - Work on my personal website
+  
+* Sunday 15/03/2020
+  - Apply for Junior Developer role at [CFC](https://www.cfcunderwriting.com/)
