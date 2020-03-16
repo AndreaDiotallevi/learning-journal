@@ -108,3 +108,8 @@
   
 * Sunday 15/03/2020
   - Apply for Junior Developer role at [CFC](https://www.cfcunderwriting.com/)
+  
+### Week 5 (16 Mar - 22 Mar 2020)
+
+* Monday 17/03/2020
+  - Implement a p5.js sketch in my website homepage
