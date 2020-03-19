@@ -111,12 +111,12 @@
   
 ### Week 5 (16 Mar - 22 Mar 2020)
 
-* Monday 17/03/2020
+* Monday 16/03/2020
   - Implement a p5.js sketch in my website homepage
   
-* Tuesday 18/03/2020
+* Tuesday 17/03/2020
   - Refine website homepage
   
-* Wednesday 19/03/2020
+* Wednesday 18/03/2020
   - Attend remote career fair
   - Apply for Junior Ruby on Rails Developer at [OpenCorporates](https://opencorporates.com/)
