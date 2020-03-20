@@ -120,3 +120,6 @@
 * Wednesday 18/03/2020
   - Attend remote career fair
   - Apply for Junior Ruby on Rails Developer at [OpenCorporates](https://opencorporates.com/)
+  
+* Thursday 19/03/2020
+  - Research and write application for Junior Software Engineer at Beacon
