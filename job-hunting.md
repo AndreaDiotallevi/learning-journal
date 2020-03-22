@@ -10,6 +10,7 @@
 
 * Wednesday 19/02/2020
   - Work on Github pinned repositories
+  - Attend career fair
 
 * Thursday 20/02/2020
   - Work on Github pinned repositories
@@ -129,3 +130,8 @@
   
 * Saturday 21/03/2020
   - Research and write application for Junior Software Engineer at RVU
+
+* Sunday 22/03/2020
+  - Apply to [Beacon](https://beacon.co.uk/) position through Makers
+  - Apply to [RVU](https://www.rvu.co.uk/) position through Makers  
+  
