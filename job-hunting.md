@@ -135,3 +135,11 @@
   - Apply to [Beacon](https://beacon.co.uk/) position through Makers
   - Apply to [RVU](https://www.rvu.co.uk/) position through Makers  
   
+### Week 6 (23 Mar - 29 Mar 2020)
+
+* Monday 23/03/2020
+  - Re-design Makers final project and deploy it to AWS with custom domain
+  
+* Tuesday 24/03/2020
+  - Amend the-movie-mapper project to make it mobile responsive
+  
