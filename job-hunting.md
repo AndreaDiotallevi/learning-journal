@@ -143,3 +143,7 @@
 * Tuesday 24/03/2020
   - Amend the-movie-mapper project to make it mobile responsive
   
+* Wednesday 25/03/2020
+  - Practise interview questions
+  - Start external technical test for a full-stack junior developer role at Nova Futur
+  
