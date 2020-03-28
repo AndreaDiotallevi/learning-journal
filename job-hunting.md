@@ -145,5 +145,12 @@
   
 * Wednesday 25/03/2020
   - Practise interview questions
-  - Start external technical test for a full-stack junior developer role at Nova Futur
+  - Start external technical test for a full-stack junior developer role at [Nova Futur](https://www.novafutur.com/)
   
+* Thursday 26/03/2020
+- Practise interview questions
+  - Work on technical test for Nova Futur
+  
+* Friday 27/03/2020
+  - Work on technical test for Nova Futur
+ 
