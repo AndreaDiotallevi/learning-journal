@@ -154,3 +154,6 @@
 * Friday 27/03/2020
   - Work on technical test for Nova Futur
  
+* Saturday 28/03/2020
+  - Apply to fintech Graduate / Junior Developer role through [Hunter Bond](https://hunterbond.com/)
+  
