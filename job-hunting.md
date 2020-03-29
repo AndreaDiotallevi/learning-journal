@@ -160,3 +160,7 @@
   
 * Sunday 29/03/2020
   - Apply to Junior Back End Developer role through [Energon People](https://www.energonpeople.com/)
+  - Almost completed the tech test
+  - Learn to build a full-stack app with the MERN stack
+  - Learn how to test the express API endpoint with Jest and Supertest
+  - Learn to work with the MongoDB database
