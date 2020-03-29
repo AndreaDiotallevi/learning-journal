@@ -158,3 +158,5 @@
   - Apply to fintech Graduate / Junior Developer role through [Hunter Bond](https://hunterbond.com/)
   - Apply to Junior Backend Developer role at [Lightspeed Health](http://www.lightspeed-health.com/)
   
+* Sunday 29/03/2020
+  - Apply to Junior Back End Developer role through [Energon People](https://www.energonpeople.com/)
