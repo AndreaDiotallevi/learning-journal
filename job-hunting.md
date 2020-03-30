@@ -164,3 +164,9 @@
   - Learn to build a full-stack app with the MERN stack
   - Learn how to test the express API endpoint with Jest and Supertest
   - Learn to work with the MongoDB database
+  
+### Week 7 (30 Mar - 5 Apr 2020)
+
+* Monday 30/03/2020
+  - Complete tech test
+  - Learn to deploy a MERN app to Heroku
