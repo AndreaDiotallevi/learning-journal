@@ -170,3 +170,6 @@
 * Monday 30/03/2020
   - Complete tech test
   - Learn to deploy a MERN app to Heroku
+  
+* Tuesday 31/03/2020
+  - Send the tech test to Nova Futur
