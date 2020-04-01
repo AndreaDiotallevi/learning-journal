@@ -174,3 +174,6 @@
 * Tuesday 31/03/2020
   - Send the tech test to Nova Futur
   - Apply for Junior Software Engineer role at [BBC](https://www.bbc.co.uk/)
+
+* Wednesday 01/04/2020
+  - Practise interview questions
