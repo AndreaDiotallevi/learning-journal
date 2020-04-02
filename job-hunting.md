@@ -177,3 +177,7 @@
 
 * Wednesday 01/04/2020
   - Practise interview questions
+  
+* Thursday 02/04/2020
+  - Practise interview questions
+  - First interview with RVU
