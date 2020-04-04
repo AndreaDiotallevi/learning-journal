@@ -181,3 +181,7 @@
 * Thursday 02/04/2020
   - Practise interview questions
   - First interview with RVU
+  
+* Friday 03/04/2020
+  - Refine the albums-manager tech test to make it mobile responsive
+  - Practice interview questions
