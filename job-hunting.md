@@ -185,3 +185,17 @@
 * Friday 03/04/2020
   - Refine the albums-manager tech test to make it mobile responsive
   - Practice interview questions
+  
+* Saturday 04/04/2020
+  - Practice interview questions
+  - Do TTD challenges with JavaScript
+  
+* Sunday 05/04/2020
+  - Practice interview questions
+  - Do TTD challenges with JavaScript
+  
+### Week 8 (6 April - 12 Apr 2020)
+
+* Monday 06/04/2020
+  - Practice interview questions
+  - Do TTD challenges with JavaScript
