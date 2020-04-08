@@ -199,3 +199,8 @@
 * Monday 06/04/2020
   - Practice interview questions
   - Do TTD challenges with JavaScript
+  
+* Tuesday 07/04/2020
+  - Interview with Beacon
+  - Not go through to next stage
+  - Reflect on my own personal feedback from the interview
