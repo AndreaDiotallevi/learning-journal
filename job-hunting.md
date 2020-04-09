@@ -207,3 +207,7 @@
   
 * Wednesday 08/04/2020
   - Apply for Junior Software Engineer role at [MOJ](https://www.gov.uk/government/organisations/ministry-of-justice)
+  
+* Thursday 09/04/2020
+  - Second interview with Nova Futur
+  - Apply for Junior Python Developer role through TipTopJob
