@@ -211,4 +211,5 @@
 * Thursday 09/04/2020
   - Second interview with Nova Futur
   - Apply for Junior Python Developer role through TipTopJob
-  - Apply for Graduate Full-Stack Developer at [Solidatus](https://www.solidatus.com/)
+  - Apply for Graduate Full-Stack Developer role at [Solidatus](https://www.solidatus.com/)
+  - Apply for Full Stack Developer role at [Reductech](https://reductech.io/)
