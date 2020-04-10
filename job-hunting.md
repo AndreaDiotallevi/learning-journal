@@ -216,3 +216,4 @@
   
 * Friday 10/04/2020
   - Apply for Junior Software Engineer role at [Macquarie Bank](https://www.macquarie.com.au/)
+  - Apply for Full Stack Developer role at [Edume](https://edume.com/)
