@@ -221,3 +221,6 @@
   
 * Saturday 11/04/2020
   - Practice interview questions
+  
+* Sunday 12/04/2020
+  - Research about my next Medium article on big O notation and time complexity
