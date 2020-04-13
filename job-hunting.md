@@ -224,3 +224,8 @@
   
 * Sunday 12/04/2020
   - Research about my next Medium article on big O notation and time complexity
+  
+### Week 9 (13 April - 19 Apr 2020)
+
+* Monday 13/04/2020
+  - Start writing the article on big O notation and time complexity
