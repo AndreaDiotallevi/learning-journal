@@ -229,3 +229,6 @@
 
 * Monday 13/04/2020
   - Start writing the article on big O notation and time complexity
+  
+* Tuesday 14/04/2020
+  - Apply for Software Engineer role at [ViacomCBS](https://www.viacbs.com/)
