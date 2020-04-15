@@ -232,3 +232,7 @@
   
 * Tuesday 14/04/2020
   - Apply for Software Engineer role at [ViacomCBS](https://www.viacbs.com/)
+  
+* Wednesday 15/04/2020
+  - Meeting with Toby to discuss about RVU and Beacon interview feedback
+  - Continue writing article on big-O notation
