@@ -235,4 +235,7 @@
   
 * Wednesday 15/04/2020
   - Meeting with Toby to discuss about RVU and Beacon interview feedback
-  - Continue writing article on big-O notation
+  - Publish article on Medium: [Big O Notation and the Magic of Time Complexity](https://medium.com/@andreadiotallevi/big-o-notation-and-the-magic-of-time-complexity-587e6bbcee00)
+  
+* Thursday 16/04/2020
+  - Apply for Software Engineer (Backend) at [Focusrite Audio Engineering](https://support.focusrite.com/hc/en-gb)
