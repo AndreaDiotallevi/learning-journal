@@ -239,3 +239,6 @@
   
 * Thursday 16/04/2020
   - Apply for Software Engineer (Backend) at [Focusrite Audio Engineering](https://support.focusrite.com/hc/en-gb)
+  
+* Friday 17/04/2020
+  - Apply for Software Engineer at [Snapchat](https://careers.snap.com/)
