@@ -242,3 +242,7 @@
   
 * Friday 17/04/2020
   - Apply for Software Engineer at [Snapchat](https://careers.snap.com/)
+  - Watch Udemy course video on React and Redux
+  
+* Saturday 18/04/2020
+  - Apply to Full Stack Developer role through [Nurole](https://www.nurole.com/)
