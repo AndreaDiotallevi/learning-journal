@@ -246,3 +246,6 @@
   
 * Saturday 18/04/2020
   - Apply to Full Stack Developer role through [Nurole](https://www.nurole.com/)
+  
+* Sunday 19/04/2020
+  - Watch Udemy course video on React and Redux
