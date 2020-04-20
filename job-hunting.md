@@ -249,3 +249,8 @@
   
 * Sunday 19/04/2020
   - Watch Udemy course video on React and Redux
+  
+### Week 10 (20 April - 26 Apr 2020)
+
+* Monday 20/04/2020
+  - Apply for Junior Full Stack Developer role at [Saffronblue](https://saffronblue.ai/)
