@@ -254,3 +254,7 @@
 
 * Monday 20/04/2020
   - Apply for Junior Full Stack Developer role at [Saffronblue](https://saffronblue.ai/)
+  - Start building my web portfolio in React
+  
+* Tuesday 21/04/2020
+  - Apply for Junior Python Developer role at [Solirius](https://www.solirius.com/)
