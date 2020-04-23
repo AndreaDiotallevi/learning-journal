@@ -258,3 +258,9 @@
   
 * Tuesday 21/04/2020
   - Apply for Junior Python Developer role at [Solirius](https://www.solirius.com/)
+  
+* Wednesday 22/04/2020
+  - Publish my personal website at https://www.andreadiotallevi.com
+  
+* Thursday 23/04/2020
+  - Apply to Front End Engineer role at [Blockchain.com](https://www.blockchain.com/)
