@@ -264,3 +264,6 @@
   
 * Thursday 23/04/2020
   - Apply to Front End Engineer role at [Blockchain.com](https://www.blockchain.com/)
+  
+* Friday 24/04/2020
+  - Apply to Junior Software Engineer role at [accuRX](https://www.accurx.com/)
