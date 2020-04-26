@@ -267,3 +267,10 @@
   
 * Friday 24/04/2020
   - Apply to Junior Software Engineer role at [accuRX](https://www.accurx.com/)
+  
+* Saturday 25/04/2020
+  - Watch Udemy course video on React and Redux - start understanding how Redux works and practice with the movie mapper project
+  - Update personal website styling
+  
+* Sunday  26/04/2020
+  - Watch Udemy course video on React and Redux - learn how to create a browser history object when working with Redux
