@@ -279,3 +279,4 @@
 
 * Monday 27/04/2020
   - Apply for Junior JavaScript Developer through [Dome Recruitment](https://www.domerecruitment.com/)
+  - Apply for Front End Engineer role at [EDITED](https://edited.com/)
