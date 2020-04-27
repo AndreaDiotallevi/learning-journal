@@ -274,3 +274,8 @@
   
 * Sunday  26/04/2020
   - Watch Udemy course video on React and Redux - learn how to create a browser history object when working with Redux
+  
+### Week 11 (27 April - 3 May 2020)
+
+* Monday 27/04/2020
+  - Apply for Junior JavaScript Developer through [Dome Recruitment](https://www.domerecruitment.com/)
