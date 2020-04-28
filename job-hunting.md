@@ -280,3 +280,7 @@
 * Monday 27/04/2020
   - Apply for Junior JavaScript Developer through [Dome Recruitment](https://www.domerecruitment.com/)
   - Apply for Front End Engineer role at [EDITED](https://edited.com/)
+  - Almost complete converting the-movie-mapper project to use Redux state management
+
+* Tuesday 28/04/2020
+  - Apply for Junior Developer role at [WMA](https://wma.agency/)
