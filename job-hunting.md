@@ -284,3 +284,7 @@
 
 * Tuesday 28/04/2020
   - Apply for Junior Developer role at [WMA](https://wma.agency/)
+
+* Wednesday 19/04/2020
+  - Apply for Safety Engineer role at Matrix
+  - Keep watching the Udemy course and learnt about "context" in react
