@@ -285,6 +285,13 @@
 * Tuesday 28/04/2020
   - Apply for Junior Developer role at [WMA](https://wma.agency/)
 
-* Wednesday 19/04/2020
+* Wednesday 29/04/2020
   - Apply for Safety Engineer role at Matrix
   - Keep watching the Udemy course and learnt about "context" in react
+
+* Thursday 30/04/2020
+  - Complete the React & Redux Udemy course
+  - Start Udemy course on React & Redux TTD testing
+
+* Friday 01/05/2020
+  - Apply for Front End Developer role through [Ampersand Consulting](https://ampersandconsulting.co.uk/)
