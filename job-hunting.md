@@ -295,3 +295,9 @@
 
 * Friday 01/05/2020
   - Apply for Front End Developer role through [Ampersand Consulting](https://ampersandconsulting.co.uk/)
+  
+* Saturday 02/05/2020
+  - Refactor the movie mapper application by implement Redux for state management
+  
+* Sunday 03/05/2020
+  - Amend personal website after receiving feedback from a senior engineer
