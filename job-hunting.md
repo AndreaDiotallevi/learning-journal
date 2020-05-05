@@ -301,3 +301,13 @@
   
 * Sunday 03/05/2020
   - Amend personal website after receiving feedback from a senior engineer
+  
+### Week 12 (4 April - 10 May 2020)
+
+* Monday 04/04/2020
+  - Split my website in two:
+    - andreadiotallevi.com --> My personal website for software development
+    - andreadiotalleviart.com --> My generative art website
+  
+* Tuesday 05/04/2020
+  - Apply for Junior Software Engineer role at [MyBuilder](https://www.mybuilder.com/)
