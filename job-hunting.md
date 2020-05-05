@@ -311,3 +311,4 @@
   
 * Tuesday 05/04/2020
   - Apply for Junior Software Engineer role at [MyBuilder](https://www.mybuilder.com/)
+  - Apply for Front End Developer role at SC Personnel
