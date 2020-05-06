@@ -314,3 +314,5 @@
   - Apply for Front End Developer role at SC Personnel
   - Start new side project archquery:
     - Setup up MERN app
+    
+  - Apply for Graduate Solution Architect at Amazon
