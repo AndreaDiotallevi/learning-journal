@@ -315,5 +315,6 @@
   - Start new side project archquery:
     - Setup up MERN app
     
+* Wednesday 06/04/2020
   - Apply for Graduate Solution Architect at Amazon
   - Apply for Junior Software Engineer at [MUBI](https://mubi.com/)
