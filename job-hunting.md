@@ -316,3 +316,4 @@
     - Setup up MERN app
     
   - Apply for Graduate Solution Architect at Amazon
+  - Apply for Junior Software Engineer at [MUBI](https://mubi.com/)
