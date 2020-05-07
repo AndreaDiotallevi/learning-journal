@@ -318,3 +318,6 @@
 * Wednesday 06/04/2020
   - Apply for Graduate Solution Architect at Amazon
   - Apply for Junior Software Engineer at [MUBI](https://mubi.com/)
+  
+* Thursday 07/04/2020
+  - Apply for Junior React Developer through [ShortList Recruitment](https://www.ontheshortlist.co.uk/)
