@@ -327,3 +327,12 @@
   
 * Friday 08/04/2020
   - Apply for Junior Full Stack Developer at [Crabtree & Evelyn](https://www.crabtree-evelyn.co.uk/)
+  
+* Saturday 09/04/2020
+  - Work on my new side project with postgres, node, react and redux
+  - Learn to authenticate a node app
+  
+* Sunday 10/04/2020
+  - Work on archquery side project
+  - Reseach and implement passport.js authentication library
+  - Research how to persist authentication on the browser
