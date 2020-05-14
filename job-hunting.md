@@ -336,3 +336,20 @@
   - Work on archquery side project
   - Reseach and implement passport.js authentication library
   - Research how to persist authentication on the browser
+  
+### Week 11 (11 April - 17 May 2020)
+
+* Monday 11/04/2020
+  - Work on my archquery project
+  - Learn how to make authentication persist with passport.js and the Redis database, which now is incuded in production with the Heroku add-on
+  
+* Tuesday 12/04/2020
+  - Work on my archquery project
+  - Learn how to make api query calls and filter data with postgres
+  
+* Wednesday 13/04/2020
+  - Work on my archquery project
+  - Optimise React fetch calls with the lodash library
+  
+* Thursday 14/04/2020
+  - Apply for JavaScript Developer at [Xanda](https://www.xanda.net/)
