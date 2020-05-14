@@ -353,3 +353,4 @@
   
 * Thursday 14/04/2020
   - Apply for JavaScript Developer at [Xanda](https://www.xanda.net/)
+  - Learn about websockets and implement them with Node, simple HTML or React
