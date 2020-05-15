@@ -354,3 +354,7 @@
 * Thursday 14/04/2020
   - Apply for JavaScript Developer at [Xanda](https://www.xanda.net/)
   - Learn about websockets and implement them with Node, simple HTML or React
+  
+* Friday 15/05/2020
+  - Do technical test for Radically Digital application
+  - Apply for Junior Full-stack Developer role at [Radically Digital](https://radically.digital/)
