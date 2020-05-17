@@ -367,3 +367,9 @@
     - Add cascade update and delete to answers (they get deleted if parent question gets deleted)
     - Add edit and delete post
     - After submitting an edit push history to previous url
+    
+* Sunday 17/05/20202
+  - Work on the archquery app
+  - Implement the CKEditor in the application for posting formatted questions and answers
+  - Research about database schemas for managing tags in an efficient way
+  - Update styling and fonts
