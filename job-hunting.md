@@ -358,3 +358,12 @@
 * Friday 15/05/2020
   - Do technical test for Radically Digital application
   - Apply for Junior Full-stack Developer role at [Radically Digital](https://radically.digital/)
+  
+* Saturday 16/05/2020
+  - Work on the archquery app
+  - Complete the following features:
+    - Users can post only if logged in
+    - Form is cleared after submission
+    - Add cascade update and delete to answers (they get deleted if parent question gets deleted)
+    - Add edit and delete post
+    - After submitting an edit push history to previous url
