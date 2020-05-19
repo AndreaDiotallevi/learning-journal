@@ -337,7 +337,7 @@
   - Reseach and implement passport.js authentication library
   - Research how to persist authentication on the browser
   
-### Week 11 (11 April - 17 May 2020)
+### Week 13 (11 April - 17 May 2020)
 
 * Monday 11/04/2020
   - Work on my archquery project
@@ -373,3 +373,15 @@
   - Implement the CKEditor in the application for posting formatted questions and answers
   - Research about database schemas for managing tags in an efficient way
   - Update styling and fonts
+  
+### Week 14 (18 April -24 May 2020)
+
+* Monday 18/04/2020
+  - Work on the archquery app
+  - Implement tags
+  - Add feature for searching posts by tag
+  - Learn to save arrays in postgresql
+  - Learn to make joins with postgresql
+
+* Tuesday 19/04/2020
+  -  Apply for Junior Software Engineer at [Tractable.ai](https://tractable.ai/)
