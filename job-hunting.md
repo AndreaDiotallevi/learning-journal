@@ -376,12 +376,15 @@
   
 ### Week 14 (18 April -24 May 2020)
 
-* Monday 18/04/2020
+* Monday 18/05/2020
   - Work on the archquery app
   - Implement tags
   - Add feature for searching posts by tag
   - Learn to save arrays in postgresql
   - Learn to make joins with postgresql
 
-* Tuesday 19/04/2020
+* Tuesday 19/05/2020
   -  Apply for Junior Software Engineer at [Tractable.ai](https://tractable.ai/)
+  
+* Wednesday 20/05/2020
+  - Apply for Software Developer at [Bank of America](https://www.bankofamerica.com/)
