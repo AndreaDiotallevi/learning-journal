@@ -388,3 +388,7 @@
   
 * Wednesday 20/05/2020
   - Apply for Software Developer at [Bank of America](https://www.bankofamerica.com/)
+  
+* Thursday 21/05/2020
+  - Amend personal website
+  - Omit heavy videos and add iframes with embedded website that allows the user to interact directly without leaving the page
