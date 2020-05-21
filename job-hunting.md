@@ -392,3 +392,4 @@
 * Thursday 21/05/2020
   - Amend personal website
   - Omit heavy videos and add iframes with embedded website that allows the user to interact directly without leaving the page
+  - Apply to Ruby Developer role at [Resolver Group](https://www.resolvergroup.com/)
