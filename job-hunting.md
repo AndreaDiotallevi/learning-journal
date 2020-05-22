@@ -393,3 +393,6 @@
   - Amend personal website
   - Omit heavy videos and add iframes with embedded website that allows the user to interact directly without leaving the page
   - Apply to Ruby Developer role at [Resolver Group](https://www.resolvergroup.com/)
+  - Work on archquery side project: add feature for counting answers to questions
+  
+* Friday 22/05/2020
