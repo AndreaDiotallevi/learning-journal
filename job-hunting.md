@@ -374,7 +374,7 @@
   - Research about database schemas for managing tags in an efficient way
   - Update styling and fonts
   
-### Week 14 (18 April -24 May 2020)
+### Week 14 (18 April - 24 May 2020)
 
 * Monday 18/05/2020
   - Work on the archquery app
@@ -396,3 +396,14 @@
   - Work on archquery side project: add feature for counting answers to questions
   
 * Friday 22/05/2020
+  - Work on the archquery app
+  - Build tagging feature so that users can search for questions by tag
+  
+* Saturday 23/05/2020
+  - Contact a Maker on Linkedin now working at Financial Times asking for advices and had great feedback
+  - Work on the archquery app
+  - Write README for the archquery project
+  
+* Sunday 24/05/2020
+  - Amend personal website
+  - Add blog posts that I had previously posted on Medium to my own website and add canonical rel tag to Medium site to avoid issues related to duplicated content
