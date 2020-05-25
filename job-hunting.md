@@ -407,3 +407,8 @@
 * Sunday 24/05/2020
   - Amend personal website
   - Add blog posts that I had previously posted on Medium to my own website and add canonical rel tag to Medium site to avoid issues related to duplicated content
+  
+### Week 15 (25 April - 31 May 2020)
+
+* Monday 25/05/2020
+  - Apply to Software Engineer role at [Deepmind](https://deepmind.com/)
