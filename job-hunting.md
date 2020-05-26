@@ -412,3 +412,7 @@
 
 * Monday 25/05/2020
   - Apply to Software Engineer role at [Deepmind](https://deepmind.com/)
+  
+* Tuesday 26/05/2020
+  - Amend personal website: add fixed header and amend hamburger menu for mobile
+  - Apply for Full Stack Developer at Fashion AI through recruiter on Linkedin
