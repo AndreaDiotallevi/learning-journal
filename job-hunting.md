@@ -416,3 +416,6 @@
 * Tuesday 26/05/2020
   - Amend personal website: add fixed header and amend hamburger menu for mobile
   - Apply for Full Stack Developer at Fashion AI through recruiter on Linkedin
+  
+* Wednesday 27/05/2020
+  - Apply for Software Engineer role at [Disperse](https://disperse.io/)
