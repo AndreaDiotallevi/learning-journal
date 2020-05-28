@@ -419,3 +419,7 @@
   
 * Wednesday 27/05/2020
   - Apply for Software Engineer role at [Disperse](https://disperse.io/)
+  
+* Thursday 28/05/2020
+  - Get amazing feedback from Radically Digital application, despite the fact they are not hiring anymore
+  - Apply for Backend Software Engineer at [Tray.io](https://tray.io/)
