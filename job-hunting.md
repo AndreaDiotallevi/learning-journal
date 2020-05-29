@@ -423,3 +423,6 @@
 * Thursday 28/05/2020
   - Get amazing feedback from Radically Digital application, despite the fact they are not hiring anymore
   - Apply for Backend Software Engineer at [Tray.io](https://tray.io/)
+  
+* Friday 29/05/2020
+  - Apply fot Front End Developer at [Carrott](https://www.carrott.com/)
