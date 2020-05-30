@@ -426,3 +426,6 @@
   
 * Friday 29/05/2020
   - Apply fot Front End Developer at [Carrott](https://www.carrott.com/)
+  
+* Saturday 30/05/2020
+  - Practise algorithms on Leetcode. Solved: Single Number, Remove Element, Palindrome Number, Two Sum, Remove Duplicates from Sorted Array, Search Insert Position, Reverse Integer
