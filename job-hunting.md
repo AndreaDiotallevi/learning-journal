@@ -429,3 +429,7 @@
   
 * Saturday 30/05/2020
   - Practise algorithms on Leetcode. Solved: Single Number, Remove Element, Palindrome Number, Two Sum, Remove Duplicates from Sorted Array, Search Insert Position, Reverse Integer
+  
+* Sunday 31/05/2020
+  - Practise algorithms on Leetcode: Solved 3 questions on arrays.
+  - Work on the archquery side project and implement the text editor (CKEditor) markdown for submitting well formatted questions
