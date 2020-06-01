@@ -433,3 +433,8 @@
 * Sunday 31/05/2020
   - Practise algorithms on Leetcode: Solved 3 questions on arrays.
   - Work on the archquery side project and implement the text editor (CKEditor) markdown for submitting well formatted questions
+  
+### Week 16 (1 June - 7 June 2020)
+
+* Monday 01/06/2020
+  - Apply for Front End Software Engineer at [Tray.io](https://tray.io/)
