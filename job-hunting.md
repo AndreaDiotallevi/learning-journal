@@ -441,3 +441,7 @@
   - Send 10 connection messages asking whether they are hiring and for useful advice to 10 engineers across Financial Times, BBC and Sky
   - Practise algorith questions on Leetcode: "move zeros" challenge.
   - Complete README for the archquery project with instruction on how to set up the local database
+  
+* Tuesday 02/06/2020
+  - Send 11 connection messages asking whether they are hiring and for useful advice to 11 engineers across Amazon, Citymapper, Ravelin Technology and Skyscanner.
+  - Practice algorithms questions on Leetcode: merge 2 binary trees, max depth of binary tree, majority element, find all numbers disappeared from array
