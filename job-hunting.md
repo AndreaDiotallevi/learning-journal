@@ -438,3 +438,6 @@
 
 * Monday 01/06/2020
   - Apply for Front End Software Engineer at [Tray.io](https://tray.io/)
+  - Send 10 connection messages asking whether they are hiring and for useful advice to 10 engineers across Financial Times, BBC and Sky
+  - Practise algorith questions on Leetcode: "move zeros" challenge.
+  - Complete README for the archquery project with instruction on how to set up the local database
