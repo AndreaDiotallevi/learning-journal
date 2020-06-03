@@ -443,3 +443,6 @@
   
 * Tuesday 02/06/2020
   - Practice algorithms questions on Leetcode: merge 2 binary trees, max depth of binary tree, majority element, find all numbers disappeared from array
+  
+* Wednesday 03/06/2020
+  - Practice algorithms questions on Leetcode: how to traverse a linked list, reverse a string, fizzbuzz, find duplicates, first unique character in a string
