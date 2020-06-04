@@ -446,3 +446,6 @@
   
 * Wednesday 03/06/2020
   - Practice algorithms questions on Leetcode: how to traverse a linked list, reverse a string, fizzbuzz, find duplicates, first unique character in a string
+  
+* Thursday 04/06/2020
+  - Apply for Junior-Mid Front End Developer role at [AnyJunk](https://www.anyjunk.co.uk/)
