@@ -449,3 +449,7 @@
   
 * Thursday 04/06/2020
   - Apply for Junior-Mid Front End Developer role at [AnyJunk](https://www.anyjunk.co.uk/)
+  
+* Friday 05/06/2020
+  - Practise algorithm: binary search (recursive and iterative), merge sort, quick sort
+  - Apply for Junior Full Stack Developer at [IBM](https://www.ibm.com/uk-en?lnk=m)
