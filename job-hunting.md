@@ -455,3 +455,6 @@
   - Apply for Junior Full Stack Developer at [IBM](https://www.ibm.com/uk-en?lnk=m)
   - Apply for React / JavaScript Developer at [BrightTALK](https://www.brighttalk.com/)
   - Apply for Junior Software Engineer at [Gousto](https://www.gousto.co.uk/)
+  
+* Saturday 06/06/2020
+  - Practice algorithms questions on Leetcode
