@@ -458,3 +458,8 @@
   
 * Saturday 06/06/2020
   - Practice algorithms questions on Leetcode
+  - Apply for Junior Developer at [Deliveroo](https://deliveroo.co.uk/)
+  
+* Sunday 07/06/2020
+  - Learn to use Amazon S3 service to store images
+  - Learn to store text editor uploads in real-time using the CKEditor and AWS S3 service on the archquery project (Stack Overflow for architects)
