@@ -463,3 +463,8 @@
 * Sunday 07/06/2020
   - Learn to use Amazon S3 service to store images
   - Learn to store text editor uploads in real-time using the CKEditor and AWS S3 service on the archquery project (Stack Overflow for architects)
+  
+### Week 17 (8 June - 17 June 2020)
+
+* Monday 08/06/2020
+  - Apply for Junior Developer role at [Sky](https://www.sky.com/)
