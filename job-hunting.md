@@ -473,3 +473,4 @@
   - Apply for Full Stack Engineer at [Utility Warehouse](https://www.utilitywarehouse.co.uk/)
   - Apply for Software Engineer, Data Strategy and Operations role at [PlayStation Europe](https://www.playstation.com/en-gb/)
   - Apply for Full Stack Software Engineer role at [ebay](https://www.ebay.co.uk/)
+  - Apply for Front End Developer through [Explore Group](https://www.explore-group.com/)
