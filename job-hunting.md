@@ -468,3 +468,4 @@
 
 * Monday 08/06/2020
   - Apply for Junior Developer role at [Sky](https://www.sky.com/)
+  - Apply for Junior Font End Developer trhough [Zebra People](https://zebrapeople.com/)
