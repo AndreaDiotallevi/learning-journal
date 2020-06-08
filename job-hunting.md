@@ -471,3 +471,4 @@
   - Apply for Junior Font End Developer trhough [Zebra People](https://zebrapeople.com/)
   - Apply for Junior React Developer through [Explore Group](https://www.explore-group.com/)
   - Apply for Full Stack Engineer at [Utility Warehouse](https://www.utilitywarehouse.co.uk/)
+  - Apply for Software Engineer, Data Strategy and Operations role at [PlayStation Europe](https://www.playstation.com/en-gb/)
