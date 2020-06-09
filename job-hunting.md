@@ -478,3 +478,4 @@
 * Tuesday 09/06/2020
   - Practice algorithms questions on Leetcode: arrays challenges (string to integer, substring in string, count and say)
   - Apply for Junior JavaScript Software Engineer at [Tray.io](https://tray.io/)
+  - Apply for Full Stack Developer at Aspinals
