@@ -481,3 +481,8 @@
   - Apply for Full Stack Developer at Aspinals
   - Apply for Frontend Engineer at CausaLens
   - Apply for Full Stack Engineer at Genflow
+  
+* Wednesday 10/06/2020
+  - Practice algorithms questions on Leetcode: linked lists, learn to create node class, iterate through list, delete node and add nodes
+  - Apply to Software Engineer role at Ravelin
+  - Apply to Junior Full Stack Developer at Pod Point
