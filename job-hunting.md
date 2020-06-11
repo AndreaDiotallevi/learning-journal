@@ -486,3 +486,9 @@
   - Practice algorithms questions on Leetcode: linked lists, learn to create node class, iterate through list, delete node and add nodes
   - Apply to Software Engineer role at Ravelin
   - Apply to Junior Full Stack Developer at Pod Point
+  
+* Thursday 11/06/2020
+  - Apply to Junior Front End Engineer (React, CSS) role at Garrison
+  - Apply to Javascript React Developer role at IHS Markit
+  - Apply to Junior Software Engineer role at Gentrack
+  - Work on the ArchQuery project: implement voting system allowing only signed users to vote - also users can vote only once, or remove their previous vote per post
