@@ -492,3 +492,16 @@
   - Apply to Javascript React Developer role at IHS Markit
   - Apply to Junior Software Engineer role at Gentrack
   - Work on the ArchQuery project: implement voting system allowing only signed users to vote - also users can vote only once, or remove their previous vote per post
+  
+* Friday 12/06/2020
+  - Do external review. Very useful. Learn:
+  
+    - Better expose less functions as possible and keep business login in private methods for more maintanable production code
+    - Learn to create NodeJS command line program
+    - Learn NodeJS ```readline``` module
+    - Always start from input / output
+    - Focus on the main program functionality
+    - Start from the simpliest test
+    - There are two types of TTD styles: Chicago and London
+    
+  - Apply to Full Stack Engineer (Javascript) at Pando
