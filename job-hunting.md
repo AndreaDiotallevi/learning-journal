@@ -505,3 +505,6 @@
     - There are two types of TTD styles: Chicago and London
     
   - Apply to Full Stack Engineer (Javascript) at Pando
+  
+* Saturday 13/06/2020
+  - Work on the Archquery app: redesign styling
