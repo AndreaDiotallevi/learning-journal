@@ -508,3 +508,6 @@
   
 * Saturday 13/06/2020
   - Work on the Archquery app: redesign styling
+  
+* Sunday 14/06/2020
+  - Learn to use React Helmet package to add metadata to pages of react single page application
