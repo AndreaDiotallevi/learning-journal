@@ -511,3 +511,13 @@
   
 * Sunday 14/06/2020
   - Learn to use React Helmet package to add metadata to pages of react single page application
+  
+### Week 18 (15 June - 24 June 2020)
+
+* Monday 15/06/2020
+  - Apply for Junior Front End Developer at Trint
+  - Apply for Front End Developer at MUBI
+  - Apply for Software Engineer at Skimlinks
+  - Apply for Software Engineer at Accedo
+  - Apply for Front End Developer at Countfire
+  - Learn to write test for api endpoint routes with Postgres and Express
