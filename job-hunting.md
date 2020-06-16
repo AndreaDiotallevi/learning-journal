@@ -518,6 +518,10 @@
   - Apply for Junior Front End Developer at Trint
   - Apply for Front End Developer at MUBI
   - Apply for Software Engineer at Skimlinks
-  - Apply for Software Engineer at Accedo
+  - Apply for Software Engineer (JavaScript) at Accedo
   - Apply for Front End Developer at Countfire
   - Learn to write test for api endpoint routes with Postgres and Express
+  
+* Tuesday 16/06/2020
+  - Complete online technical test for the Software Engineer (JavaScript) role at Accedo
+  - Practise algorithm question on Leetcode: running sum of 1d array, shuffle the array, how many numbers are smaller than current
