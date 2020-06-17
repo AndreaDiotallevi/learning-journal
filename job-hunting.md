@@ -525,3 +525,9 @@
 * Tuesday 16/06/2020
   - Complete online technical test for the Software Engineer (JavaScript) role at Accedo
   - Practise algorithm question on Leetcode: running sum of 1d array, shuffle the array, how many numbers are smaller than current
+  
+* Wednesday 17/06/2020
+  - Apply for Digital Developer role at Point Blank Music School
+  - Apply for Front End Developer role at Valerann
+  - Practise algorithm questions on Leetcode:
+    - decompress run-length encoded list
