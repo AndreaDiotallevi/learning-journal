@@ -527,7 +527,8 @@
   - Practise algorithm question on Leetcode: running sum of 1d array, shuffle the array, how many numbers are smaller than current
   
 * Wednesday 17/06/2020
-  - Apply for Digital Developer role at Point Blank Music School
-  - Apply for Front End Developer role at Valerann
+  - Apply to Digital Developer role at Point Blank Music School
+  - Apply to Front End Developer role at Valerann
+  - Apply to Implementation Engineer role at Tray.io through Makers
   - Practise algorithm questions on Leetcode:
     - decompress run-length encoded list
