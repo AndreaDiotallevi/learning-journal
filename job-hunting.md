@@ -532,3 +532,6 @@
   - Apply to Implementation Engineer role at Tray.io through Makers
   - Practise algorithm questions on Leetcode:
     - decompress run-length encoded list
+
+* Thursday 18/06/2020
+  - Apply to Tester (Proteus Project - Broadcast Systems) at BBC
