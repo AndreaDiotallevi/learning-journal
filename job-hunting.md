@@ -541,4 +541,5 @@
     - On the test do not use magic numbers. A new programmer needs to understand what the code does clearly from the tests
     - On every new test try to break the code to justify the test case. It is good in some cases for good documentation
     - It is good to write important business logic first and then think about the edge cases and error handling
-    - Think about how to refactor code and extract logic into smaller methods to make the code more readable
+    - Think about how to refactor code and extract logic into smaller methods to make the code more readable   
+  - Attend Makers Developer Tea with Chris Ly
