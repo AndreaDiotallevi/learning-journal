@@ -548,4 +548,4 @@
   - Learn properly react hooks and how to create custom hooks
 
 * Sunday 21/06/2020
-  - Start learning SASS
+  - Learn SASS, to make CSS cleaner and more maintainable
