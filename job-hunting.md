@@ -543,3 +543,9 @@
     - It is good to write important business logic first and then think about the edge cases and error handling
     - Think about how to refactor code and extract logic into smaller methods to make the code more readable   
   - Attend Makers Developer Tea with Chris Ly
+
+* Saturday 20/06/2020
+  - Learn properly react hooks and how to create custom hooks
+
+* Sunday 21/06/2020
+  - Start learning SASS
