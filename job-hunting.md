@@ -555,3 +555,4 @@
 * Monday 22/06/2020
   - Apply for Software Developer role at Triptease through Makers
   - Apply for React Developer at Sky Now TV
+  - Apply for Frontend Developer - React at Capgemini
