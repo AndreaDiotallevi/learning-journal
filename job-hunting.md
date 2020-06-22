@@ -549,3 +549,8 @@
 
 * Sunday 21/06/2020
   - Learn SASS, to make CSS cleaner and more maintainable
+  
+### Week 19 (22 June - 01 July 2020)
+
+* Monday 22/06/2020
+  - Apply for Software Developer role at Triptease through Makers
