@@ -556,3 +556,8 @@
   - Apply for Software Developer role at Triptease through Makers
   - Apply for React Developer at Sky Now TV
   - Apply for Frontend Developer - React at Capgemini
+  
+* Tuesday 23/06/2020
+  - Apply for Javascript React Developer role at Sainsbury's
+  - Apply for Fullstack Software Engineer role at Ripple Energy
+  - Apply for Backend Software Engineer role at Tractable
