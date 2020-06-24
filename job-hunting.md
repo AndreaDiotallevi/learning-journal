@@ -561,3 +561,7 @@
   - Apply for Javascript React Developer role at Sainsbury's
   - Apply for Fullstack Software Engineer role at Ripple Energy
   - Apply for Backend Software Engineer role at Tractable
+  - Study about node clean architecture and javascript design principles
+  
+* Wednesday 24/06/2020
+  - Apply for Javascript NodeJS Developer through Strawberry Recruitment
