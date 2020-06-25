@@ -567,3 +567,5 @@
   - Apply for Javascript NodeJS Developer through Strawberry Recruitment
   
 * Thursday 25/06/2020
+  - Start Makers group project
+  - Learn Mobx state management with React
