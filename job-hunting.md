@@ -565,3 +565,5 @@
   
 * Wednesday 24/06/2020
   - Apply for Javascript NodeJS Developer through Strawberry Recruitment
+  
+* Thursday 25/06/2020
