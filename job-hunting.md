@@ -569,3 +569,10 @@
 * Thursday 25/06/2020
   - Start Makers group project
   - Learn Mobx state management with React
+  
+* Friday 26/06/2020
+  - Practise algorithm challenges:
+    - find numbers with even number of digits
+    - number of students doing homework at a given time
+    - to lower case
+    - unique number of occurences
