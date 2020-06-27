@@ -576,3 +576,5 @@
     - number of students doing homework at a given time
     - to lower case
     - unique number of occurences
+    
+* Saturday 27/06/2020
