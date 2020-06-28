@@ -578,3 +578,12 @@
     - unique number of occurences
     
 * Saturday 27/06/2020
+  - Practise algorithm challenges:
+    - replace elements with greatest element on right side
+    - generate string with characters that have odd counts
+    - intersection of 2 arrays
+    
+* Sunday 28/06/2020
+  - Research about audio Makers project
+  - Practise algorithm challenges:
+    - find common characters
