@@ -550,7 +550,7 @@
 * Sunday 21/06/2020
   - Learn SASS, to make CSS cleaner and more maintainable
   
-### Week 19 (22 June - 01 July 2020)
+### Week 19 (22 June - 29 June 2020)
 
 * Monday 22/06/2020
   - Apply for Software Developer role at Triptease through Makers
@@ -587,3 +587,13 @@
   - Research about audio Makers project
   - Practise algorithm challenges:
     - find common characters
+    
+### Week 20 (29 June - 05 July 2020)
+
+* Monday 29/06/2020
+  - Apply for Junior Software Engineer at GOV.UK
+  - Practise algorithm challenges on Leetcode:
+    - height checker
+    - car win nim
+    - hamming distance
+    - check record
